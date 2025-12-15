@@ -5,9 +5,25 @@
     <link></link>
     <description> 近 7 天的AI日报</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 15 Dec 2025 15:02:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Dec 2025 23:17:53 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.lazybaby-hk.workers.dev/rss" rel="self" type="application/rss+xml" />
     
+        <item>
+          <title><![CDATA[2025-12-16日刊]]></title>
+          <link>/2025-12/2025-12-16/</link>
+          <guid>/2025-12/2025-12-16/</guid>
+          <pubDate>Tue, 16 Dec 2025 07:17:52 GMT</pubDate>
+          <content:encoded><![CDATA[<h2>AI洞察日报 2025/12/16</h2><blockquote><p><code>AI 日报</code></p></blockquote><h3><strong>今日摘要</strong></h3><pre><code>一名作者因AI写作质疑，揭示AI检测局限与偏见。
+Tinker API更新，支持多模型微调及视觉能力。
+首个视频大模型可信度评测出炉，闭源模型表现领先。
+AI取代劳动力税收争议，涉及对AI、资本或财富征税。
+</code></pre><h3><strong>今日AI资讯</strong></h3><ol><li><p><strong>AI 写作争议与肯尼亚作者遭遇</strong>
+一名肯尼亚作者因其写作风格被误指为使用 ChatGPT，引发了关于写作风格判别、模型训练数据来源及社会偏见的广泛讨论。评论指出，<strong>OpenAI</strong> 等公司在非洲聘请标注员参与 <strong>RLHF</strong>（Reinforcement Learning from Human Feedback）等任务，这可能导致模型输出的风格与当地教育或商务英语相似。关于<strong>AI检测工具</strong>的可靠性、以排版细节（如 <strong>em dash</strong>）作为判据的荒谬性，以及误判对个体、艺术社区和无障碍用户造成的实际伤害，都成为讨论的焦点。支持者认为，将&quot;写得好”直接等同于 AI 产出是一种偏见。</p></li><li><p><strong>Thinking Machines Lab 更新 Tinker 平台</strong><strong>Thinking Machines Lab</strong> 宣布对其首款产品 <strong>Tinker API</strong> 进行重大更新，该平台旨在简化 <strong>LLM</strong>（大型语言模型）的后训练过程。Tinker 取消了候选名单，所有用户现在均可直接使用。本次更新新增了对 <strong>Kimi K2 Thinking</strong> 模型的微调支持，该模型具备万亿参数规模，专为长链推理和工具调用设计。此外，Tinker 引入了兼容 <strong>OpenAI API</strong> 的新推理接口，并增加了对 <strong>Qwen3-VL</strong> 系列视觉模型（如 Qwen3-VL-30B-A3B-Instruct 和 Qwen3-VL-235B-A22B-Instruct）的支持，允许用户处理图像、截图等视觉内容，并可直接应用于监督微调和强化学习微调。</p></li><li><p><strong>AAAI 2026：视频大语言模型可信度评测</strong>
+合肥工业大学与清华大学的研究团队推出了首个针对视频大语言模型的综合可信度评测基准 <strong>Trust-videoLLMs</strong>，该工作已被 <strong>AAAI 2026</strong> 接收。评测基准全面评估了 5 款商业模型和 18 款开源模型，涵盖真实性、鲁棒性、安全性、公平性和隐私性五大维度，共包含 30 项任务。结果显示，<strong>Claude</strong> 和 <strong>Gemini 1.5</strong> 系列等闭源模型普遍优于开源模型，其中 <strong>Claude4-sonnet</strong> 位列第一。关键发现包括：模型规模不直接决定性能，开源模型与闭源模型在安全性等方面仍有差距，视频上下文显著影响模型安全风险，公平性问题普遍存在，且隐私保护是把双刃剑。研究团队同时开源了评测框架、数据集和评估工具箱。</p></li><li><p><strong>AI 取代劳动力与税收困境</strong>
+关于 AI 取代劳动力引发的税收问题，讨论集中在是否应<strong>对 AI、资本还是财富征税</strong>。部分评论认为 AI 仅是工具，历史上自动化并未导致终局性失业，直接对 AI 征税会损害竞争力。另一类观点则强调问题在于拥有 AI 的资本所有者，建议征收<strong>财富税</strong>、<strong>资本利得税</strong>，或对<strong>训练数据</strong>征收版税，并将收入用于<strong>UBI</strong>（无条件基本收入）或公共项目。然而，直接对 AI 征税面临执行和逃逸风险，替代方案包括按<strong>数据中心能耗</strong>或<strong>计算量</strong>征税。对于 AI 是否会造成广泛失业，观点不一，但普遍认为需要设计<strong>过渡政策</strong>，如 <strong>WPA</strong>（Works Progress Administration）式的公共工程或 <strong>UBI</strong>。根本矛盾被归结为政治经济力量，即富豪与大公司通过税收漏洞加剧财富集中。</p></li></ol>]]></content:encoded>
+          <description><![CDATA[AI洞察日报 2025/12/16 AI 日报 今日摘要 一名作者因AI写作质疑，揭示AI检测局限与偏见。 Tinker API更新，支持多模型微调及视觉能力。 首个视频大模型可信度评测出炉，闭源模型表现领先。 AI取代劳动力税收争议，涉及对AI、资本或财富征税。 今日AI资讯 AI 写作争议与肯尼亚作者遭遇 一名肯尼亚作者因其写作风格被误指为使用 ChatGPT，引发了关于写作风格判别、模型训练]]></description>
+        </item>
+      
         <item>
           <title><![CDATA[2025-12-15日刊]]></title>
           <link>/2025-12/2025-12-15/</link>
