@@ -1,0 +1,47 @@
+name: Deploy Site to Pages
+
+on:
+  push:
+    branches:
+      - book
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Setup mdBook
+        uses: peaceiris/actions-mdbook@v2
+        with:
+          mdbook-version: 'latest'
+          
+      - name: Prepare Source Directory
+        run: |
+          mkdir -p src/daily
+          # Copy daily files to src/daily
+          if [ -d "daily" ]; then
+            cp -r daily/* src/daily/
+          fi
+          
+          # Make gen.sh executable
+          chmod +x .github/scripts/gen.sh
+          
+          # Generate SUMMARY.md
+          ./.github/scripts/gen.sh src/daily
+          
+      - name: Build with mdBook
+        run: mdbook build
+
+      - name: Deploy to gh-pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./book
+          publish_branch: gh-pages
