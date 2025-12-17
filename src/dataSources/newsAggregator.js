@@ -64,28 +64,45 @@ const NewsAggregatorDataSource = {
                 });
 
                 if (!response.ok) {
-                    console.error(`Failed to fetch News Aggregator data, page ${i + 1}: ${response.statusText}`);
-                    break;
+                    const txt = await response.text();
+                    throw new Error(`HTTP ${response.status}: ${txt.substring(0, 200)}`);
                 }
                 const data = await response.json();
-                if (data && data.data && data.data.length > 0) {
-                    const filteredItems = data.data.filter(entry => isDateWithinLastDays(entry.entries.publishedAt, filterDays));
-                    allNewsItems.push(...filteredItems.map(entry => ({
-                        id: entry.entries.id,
-                        url: entry.entries.url,
-                        title: entry.entries.title,
-                        content_html: entry.entries.content,
-                        date_published: entry.entries.publishedAt,
-                        authors: [{ name: entry.entries.author }],
-                        source: entry.entries.author ? `${entry.feeds.title} - ${entry.entries.author}` : entry.feeds.title,
-                    })));
-                    publishedAfter = data.data[data.data.length - 1].entries.publishedAt;
-                } else {
+
+                if (!data || !data.data || data.data.length === 0) {
+                    if (i === 0) {
+                        // If the very first page is empty, something is wrong with the query or auth.
+                        throw new Error(`Empty Data on Page 1. Response keys: ${Object.keys(data || {}).join(',')}. Code: ${data?.code}, Msg: ${data?.message}`);
+                    }
                     console.log(`No more data for News Aggregator, page ${i + 1}.`);
                     break;
                 }
+
+                if (i === 0) {
+                    // console.log(`[Debug] First item date: ${data.data[0].entries.publishedAt}, FilterDays: ${filterDays}`);
+                }
+                const filteredItems = data.data.filter(entry => isDateWithinLastDays(entry.entries.publishedAt, filterDays));
+
+                if (filteredItems.length === 0 && data.data.length > 0) {
+                    const firstDate = data.data[0].entries.publishedAt;
+                    throw new Error(`All ${data.data.length} items filtered out. First Date: ${firstDate}, FilterDays: ${filterDays}, Now: ${new Date().toISOString()}`);
+                }
+
+                allNewsItems.push(...filteredItems.map(entry => ({
+                    id: entry.entries.id,
+                    url: entry.entries.url,
+                    title: entry.entries.title,
+                    content_html: entry.entries.content,
+                    date_published: entry.entries.publishedAt,
+                    authors: [{ name: entry.entries.author }],
+                    source: entry.entries.author ? `${entry.feeds.title} - ${entry.entries.author}` : entry.feeds.title,
+                })));
+                publishedAfter = data.data[data.data.length - 1].entries.publishedAt;
+
             } catch (error) {
                 console.error(`Error fetching News Aggregator data, page ${i + 1}:`, error);
+                // For debug purposes, rethrow if it's the first page so we see it in the logs
+                if (i === 0) throw error;
                 break;
             }
 

@@ -5,24 +5,24 @@ compatibility_date = "2025-05-20" # Or your project's compatibility date
 workers_dev = true
 
 kv_namespaces = [
-  { binding = "DATA_KV", id = "kv数据库的ID" }
+  { binding = "DATA_KV", id = "70774ebf476743d0bbb41127c22469b2" }
 ]
 
 [vars]
 IMG_PROXY = ""  #图片代理链接，用于处理图片不显示
 OPEN_TRANSLATE = "true"
 USE_MODEL_PLATFORM = "GEMINI" #GEMINI, OPEN
-GEMINI_API_KEY = "xxxxxx-xxxxxx"
-GEMINI_API_URL = "https://api-proxy.me/gemini" #网上公共的代理api
-DEFAULT_GEMINI_MODEL = "gemini-2.5-flash-preview-05-20"
+GEMINI_API_KEY = "xxxxxx"
+GEMINI_API_URL = "https://generativelanguage.googleapis.com" #网上公共的代理api
+DEFAULT_GEMINI_MODEL = "gemini-2.5-flash-lite"
 OPENAI_API_KEY = "sk-xxxxxx" # Replace with your actual OpenAI API Key
 OPENAI_API_URL = "https://api.deepseek.com" # Or your OpenAI compatible API URL
 DEFAULT_OPEN_MODEL = "deepseek-chat"
 FOLO_COOKIE_KV_KEY = "folo_auth_cookie" 
 FOLO_DATA_API = "https://api.follow.is/entries"
-FOLO_FILTER_DAYS = 1
+FOLO_FILTER_DAYS = 3
 NEWS_AGGREGATOR_LIST_ID = "158437828119024640" 
-NEWS_AGGREGATOR_FETCH_PAGES = "1" 
+NEWS_AGGREGATOR_FETCH_PAGES = "5" 
 HGPAPERS_LIST_ID = "158437917409783808"
 HGPAPERS_FETCH_PAGES = "1"
 TWITTER_LIST_ID = "153028784690326528" 
@@ -30,12 +30,12 @@ TWITTER_FETCH_PAGES = "1"
 REDDIT_LIST_ID = "167576006499975168" 
 REDDIT_FETCH_PAGES = "1" 
 PROJECTS_API_URL = "https://git-trending.justlikemaki.vip/topone/?since=daily"
-GITHUB_TOKEN = "github_pat_xxxxxx"
-GITHUB_REPO_OWNER = "justlovemaki"
+GITHUB_TOKEN = "xxxxxx"
+GITHUB_REPO_OWNER = "lazybabyz"
 GITHUB_REPO_NAME = "CloudFlare-AI-Insight-Daily"
-GITHUB_BRANCH = "main"
+GITHUB_BRANCH = "book"
 LOGIN_USERNAME = "root"
-LOGIN_PASSWORD = "toor"
+LOGIN_PASSWORD = "xxxxxx"
 DAILY_TITLE = "AI洞察日报"
 DAILY_TITLE_MIN = " `AI 日报` "
 PODCAST_TITLE = "来生小酒馆"
@@ -45,3 +45,6 @@ BOOK_LINK = ""
 INSERT_FOOT = "false"
 INSERT_AD = "false"
 INSERT_APP_URL = "<h3>[查看完整版AI日报↗️ https://ai.hubtoday.app/](https://ai.hubtoday.app/)</h3>"
+
+[triggers]
+crons = ["0 22 * * *"]

@@ -10,6 +10,18 @@
 > 日报前端项目已发布2.0： [Hextra-AI-Insight-Daily](https://github.com/justlovemaki/Hextra-AI-Insight-Daily) ，基于 Hugo 加 Hextra主题 构建。
 > 
 > 感谢阮一峰老师在[周刊352期](https://www.ruanyifeng.com/blog/2025/06/weekly-issue-352.html)的推荐。
+
+## 🚀 LazyBabyz Fork Modifications
+
+This fork builds upon the original project to achieve **Zero-Touch Automation**:
+
+*   **Fully Automated Workflow**: filtered news is automatically summarized by Gemini and committed to GitHub without manual selection.
+*   **Intelligent Filtering**:
+    *   **Source Purification**: Curated Folo feeds to remove noise.
+    *   **Smart Selection**: Uses Title-Only matching with Whitelist Keywords (e.g., Gemini, ChatGPT) and Strict Blacklist (e.g., finance, personnel news) to ensure high-quality technical content.
+    *   **Deduplication**: Automatically removes duplicate headlines.
+*   **Documentation**: Added `SYSTEM_DOCS.md` for troubleshooting and `AGENT_HANDOFF.md` for future AI maintenance.
+
 ---
 
 ## ✨ 核心特性

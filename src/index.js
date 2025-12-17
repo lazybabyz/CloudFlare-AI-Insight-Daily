@@ -4,21 +4,22 @@ import { handleGetContent } from './handlers/getContent.js';
 import { handleGetContentHtml } from './handlers/getContentHtml.js';
 import { handleGenAIContent, handleGenAIPodcastScript, handleGenAIDailyAnalysis } from './handlers/genAIContent.js';
 import { handleGenAIDailyPage } from './handlers/genAIDailyPage.js'; // Import handleGenAIDailyPage
-import { handleCommitToGitHub } from './handlers/commitToGitHub.js';
+import { handleCommitToGitHub } from './handlers/githubCommit.js';
 import { handleRss } from './handlers/getRss.js';
-import { handleWriteRssData } from './handlers/writeRssData.js'; 
+import { handleWriteRssData } from './handlers/writeRssData.js';
 import { dataSources } from './dataFetchers.js';
 import { handleLogin, isAuthenticated, handleLogout } from './auth.js';
+import { handleScheduled } from './scheduled.js'; // Import scheduled handler
 
 export default {
     async fetch(request, env) {
         // Check essential environment variables
         const requiredEnvVars = [
             'DATA_KV', 'GEMINI_API_KEY', 'GEMINI_API_URL', 'DEFAULT_GEMINI_MODEL', 'OPEN_TRANSLATE', 'USE_MODEL_PLATFORM',
-            'GITHUB_TOKEN', 'GITHUB_REPO_OWNER', 'GITHUB_REPO_NAME','GITHUB_BRANCH',
+            'GITHUB_TOKEN', 'GITHUB_REPO_OWNER', 'GITHUB_REPO_NAME', 'GITHUB_BRANCH',
             'LOGIN_USERNAME', 'LOGIN_PASSWORD',
-            'PODCAST_TITLE','PODCAST_BEGIN','PODCAST_END',
-            'FOLO_COOKIE_KV_KEY','FOLO_DATA_API','FOLO_FILTER_DAYS',
+            'PODCAST_TITLE', 'PODCAST_BEGIN', 'PODCAST_END',
+            'FOLO_COOKIE_KV_KEY', 'FOLO_DATA_API', 'FOLO_FILTER_DAYS',
         ];
         console.log(env);
         const missingVars = requiredEnvVars.filter(varName => !env[varName]);
@@ -32,7 +33,7 @@ export default {
                 <p>Please contact the administrator.</p></body></html>`;
             return new Response(errorPage, { status: 503, headers: { 'Content-Type': 'text/html; charset=utf-8' } });
         }
-        
+
         const url = new URL(request.url);
         const path = url.pathname;
         console.log(`Request received: ${request.method} ${path}`);
@@ -81,8 +82,11 @@ export default {
                 response = await handleGenAIDailyPage(request, env);
             } else if (path === '/commitToGitHub' && request.method === 'POST') {
                 response = await handleCommitToGitHub(request, env);
+            } else if (path === '/test-schedule' && request.method === 'GET') { // Manual test trigger for schedule
+                const result = await handleScheduled(null, env);
+                response = new Response(JSON.stringify(result, null, 2), { status: 200, headers: { 'Content-Type': 'application/json' } });
             } else {
-                return new Response(null, { status: 404, headers: {'Content-Type': 'text/plain; charset=utf-8'} });
+                return new Response(null, { status: 404, headers: { 'Content-Type': 'text/plain; charset=utf-8' } });
             }
         } catch (e) {
             console.error("Unhandled error in fetch handler:", e);
@@ -94,5 +98,9 @@ export default {
             response.headers.append('Set-Cookie', newCookie);
         }
         return response;
+    },
+
+    async scheduled(event, env, ctx) {
+        ctx.waitUntil(handleScheduled(event, env));
     }
 };

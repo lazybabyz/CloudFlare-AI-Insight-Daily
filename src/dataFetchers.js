@@ -39,7 +39,8 @@ export async function fetchAndTransformDataForType(sourceType, env, foloCookie) 
             allUnifiedDataForType = allUnifiedDataForType.concat(unifiedData);
         } catch (error) {
             console.error(`Error fetching or transforming data from source ${dataSource.type} for type ${sourceType}:`, error.message);
-            // Continue to next data source even if one fails
+            // Rethrow to see in scheduled logs
+            throw error;
         }
     }
 

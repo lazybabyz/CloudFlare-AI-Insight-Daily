@@ -182,10 +182,19 @@ export function isDateWithinLastDays(dateString, days) {
     // Normalize today to the start of its day in Shanghai time
     today.setHours(0, 0, 0, 0);
 
-    const diffTime = today.getTime() - itemDate.getTime();
-    const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
+    // Calculate cutoff time: start of today minus (days - 1) days (to include today)
+    // Example: days=1, cutoff=today. days=3, cutoff=today-2days.
+    // If we want straightforward "last X days", we can just subtract X days.
+    // Let's assume inclusive of today: cutoff = today - (days - 1 or days)
+    // The previous logic used 'days' as the upper bound for difference.
 
-    return diffDays >= 0 && diffDays < days;
+    // Simply: Is itemDate >= (Today - Days)?
+    const pastLimit = new Date(today);
+    pastLimit.setDate(today.getDate() - days);
+
+    // We only care that it's not older than the limit.
+    // We accept future dates (news from 'tomorrow' timezone wise or just later today).
+    return itemDate.getTime() > pastLimit.getTime();
 }
 
 /**
@@ -235,12 +244,12 @@ export function formatDateToChineseWithTime(isoDateString) {
  */
 export function formatRssDate(date) {
     if (!date) return new Date().toUTCString();
-    
+
     return date.toUTCString();
-  }
+}
 
 
-  export function formatDateToGMT0WithTime(isoDateString) {
+export function formatDateToGMT0WithTime(isoDateString) {
     if (!isoDateString) return '';
     const date = new Date(isoDateString);
     const options = {
@@ -255,9 +264,9 @@ export function formatRssDate(date) {
     };
     // 使用 'zh-CN' 语言环境以确保中文格式
     return new Intl.DateTimeFormat('zh-CN', options).format(date);
-}  
+}
 
-  export function formatDateToGMT8WithTime(isoDateString) {
+export function formatDateToGMT8WithTime(isoDateString) {
     if (!isoDateString) return '';
     const date = new Date(isoDateString);
     const options = {
@@ -272,7 +281,7 @@ export function formatRssDate(date) {
     };
     // 使用 'zh-CN' 语言环境以确保中文格式
     return new Intl.DateTimeFormat('zh-CN', options).format(date);
-}  
+}
 
 /**
  * Converts English double quotes (") to Chinese double quotes (“”).
@@ -319,5 +328,5 @@ export function sleep(ms) {
 
 export function replaceImageProxy(proxy, content) {
     const str = String(content);
-    return str.replace(/upload.chinaz.com/g, 'pic.chinaz.com').replace(/https:\/\/pic.chinaz.com/g, proxy+'https:\/\/pic.chinaz.com');
+    return str.replace(/upload.chinaz.com/g, 'pic.chinaz.com').replace(/https:\/\/pic.chinaz.com/g, proxy + 'https:\/\/pic.chinaz.com');
 }

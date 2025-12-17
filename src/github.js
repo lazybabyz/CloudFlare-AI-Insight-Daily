@@ -106,7 +106,7 @@ export async function getDailyReportContent(env, filePath) {
         const data = await callGitHubApi(env, `/contents/${filePath}?ref=${GITHUB_BRANCH}`);
         return b64DecodeUnicode(data.content);
     } catch (error) {
-        console.error(`Error fetching daily report content from ${rawUrl}:`, error);
+        console.error(`Error fetching daily report content from ${filePath}:`, error);
         throw error;
     }
 }
