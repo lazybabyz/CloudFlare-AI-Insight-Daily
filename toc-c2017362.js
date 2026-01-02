@@ -8,7 +8,7 @@ class MDBookSidebarScrollbox extends HTMLElement {
         super();
     }
     connectedCallback() {
-        this.innerHTML = '<ol class="chapter"><li class="chapter-item expanded "><span class="chapter-link-wrapper"><a href="2026-01-02.html">Today</a></span></li><li class="chapter-item expanded "><li class="part-title">2026-01</li></li><li class="chapter-item expanded "><span class="chapter-link-wrapper"><a href="daily/2026-01-02.html"><strong aria-hidden="true">1.</strong> 01-02-日刊</a></span></li><li class="chapter-item expanded "><span class="chapter-link-wrapper"><a href="daily/2026-01-01.html"><strong aria-hidden="true">2.</strong> 01-01-日刊</a></span></li></ol>';
+        this.innerHTML = '<ol class="chapter"><li class="chapter-item expanded "><span class="chapter-link-wrapper"><a href="2026-01-03.html">Today</a></span></li><li class="chapter-item expanded "><li class="part-title">2026-01</li></li><li class="chapter-item expanded "><span class="chapter-link-wrapper"><a href="daily/2026-01-03.html"><strong aria-hidden="true">1.</strong> 01-03-日刊</a></span></li><li class="chapter-item expanded "><span class="chapter-link-wrapper"><a href="daily/2026-01-02.html"><strong aria-hidden="true">2.</strong> 01-02-日刊</a></span></li><li class="chapter-item expanded "><span class="chapter-link-wrapper"><a href="daily/2026-01-01.html"><strong aria-hidden="true">3.</strong> 01-01-日刊</a></span></li></ol>';
         // Set the current, active page, and reveal it if it's hidden
         let current_page = document.location.href.toString().split('#')[0].split('?')[0];
         if (current_page.endsWith('/')) {
