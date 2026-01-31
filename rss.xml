@@ -5,9 +5,18 @@
     <link></link>
     <description> 近 7 天的AI日报</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 30 Jan 2026 23:22:41 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Jan 2026 23:19:33 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.lazybaby-hk.workers.dev/rss" rel="self" type="application/rss+xml" />
     
+        <item>
+          <title><![CDATA[2026-02-01日刊]]></title>
+          <link>/2026-02/2026-02-01/</link>
+          <guid>/2026-02/2026-02-01/</guid>
+          <pubDate>Sun, 01 Feb 2026 07:19:32 GMT</pubDate>
+          <content:encoded><![CDATA[<h2>AI洞察日报 2026/2/1</h2><blockquote><p><code>AI 日报</code></p></blockquote><h3><strong>今日AI资讯</strong></h3><ol><li><strong>KlingAI</strong> 宣布了其 <strong>CEO @GaikunGk</strong>，并透露 <strong>Kling AIO 模型</strong> 即将推出。该模型将是一个<strong>全能型模型</strong>，同时支持 <strong>Video 3.0</strong> 和 <strong>Omni 3.0</strong>。用户被邀请分享他们期望的功能。</li><li>一篇关于 <strong>Clawdbot</strong> 更名后的使用教程，介绍了如何集成 <strong>OpenClaw</strong> 和 <strong>Kimi 2.5</strong>，包括<strong>飞书的接入</strong>以及其他用户遇到的问题。教程提到，即使将35张图片压缩到3.5M，<strong>总大小限制5M</strong>仍然无法通过，并推测可能存在<strong>数量限制</strong>，因为在上传25张图片时出现了失败。</li><li><strong>ChatGPT</strong> 将于<strong>2月13日</strong>下线旧模型，包括 <strong>GPT-4o</strong>、<strong>GPT-4.1</strong>（及4.1 mini）和 <strong>o4-mini</strong>。但这些模型仍将在API中可用。</li></ol>]]></content:encoded>
+          <description><![CDATA[AI洞察日报 2026/2/1 AI 日报 今日AI资讯 KlingAI 宣布了其 CEO @GaikunGk ，并透露 Kling AIO 模型 即将推出。该模型将是一个 全能型模型 ，同时支持 Video 3.0 和 Omni 3.0 。用户被邀请分享他们期望的功能。 一篇关于 Clawdbot 更名后的使用教程，介绍了如何集成 OpenClaw 和 Kimi 2.5 ，包括 飞书的接入 以及]]></description>
+        </item>
+      
         <item>
           <title><![CDATA[2026-01-31日刊]]></title>
           <link>/2026-01/2026-01-31/</link>
@@ -60,15 +69,6 @@
           <pubDate>Mon, 26 Jan 2026 07:17:55 GMT</pubDate>
           <content:encoded><![CDATA[<h2>AI洞察日报 2026/1/26</h2><blockquote><p><code>AI 日报</code></p></blockquote><h3><strong>今日AI资讯</strong></h3><ol><li><p><strong>阿里Qwen3-TTS-12Hz-1.7B-CustomVoice</strong>：阿里最新开源的 <strong>Qwen3-TTS-12Hz-1.7B-CustomVoice</strong> 模型可在本地笔记本上轻松运行，支持10多种主流语言，并能感知语调、情绪和上下文，同时支持<strong>自定义和克隆音色</strong>。更小的0.6b模型版本为本地用户提供了极大的便利。</p></li><li><p><strong>Vision Pro 使用体验</strong>：用户为 <strong>Vision Pro</strong> 配备了近视镜片，体验略优于隐形眼镜。在安装特定插件后，尝试了YouTube、Telegram和ChatGPT，并将其作为<strong>移动办公的扩展显示器</strong>，但长时间佩戴仍感不适。</p></li><li><p><strong>OpenAI Codex 更新</strong>：<strong>OpenAI</strong> 计划在未来一个月内发布一系列与 <strong>Codex 编码模型</strong>相关的更新，旨在加强在AI编码领域的竞争力。</p></li><li><p><strong>Claude Code 辅助视频字幕生成</strong>：通过 <strong>Claude Code</strong> 的 <code>omni-captions-skills</code>，用户可以快速下载视频并生成<strong>中英双语字幕</strong>，实现精准对齐，省去了传统字幕制作的繁琐步骤。</p></li><li><p><strong>Claude Code 调用 Codex</strong>：用户可以通过一个简单的Skill，在 <strong>Claude Code</strong> 中方便地调用 <strong>Codex</strong> 模型，实现<strong>自然语言对话编程</strong>，特别适合规划和修复Bug等场景。</p></li><li><p><strong>Codex 集成 JetBrains IDEs</strong>：<strong>OpenAI</strong> 已将 <strong>Codex</strong> 集成到 <strong>JetBrains IDEs</strong>（如IntelliJ、PyCharm等）中，用户可通过ChatGPT订阅在代码编辑器内实现<strong>编码规划、编写、测试和审阅</strong>等功能。</p></li><li><p><strong>Codex Agent Loop 原理</strong>：OpenAI 发布博文，详细介绍了 <strong>Codex Agent Loop</strong> 的工作机制，阐述了模型在用户提示和生成响应之间，如何<strong>组装输入、运行推理、执行工具并反馈结果</strong>。</p></li></ol>]]></content:encoded>
           <description><![CDATA[AI洞察日报 2026/1/26 AI 日报 今日AI资讯 阿里Qwen3-TTS-12Hz-1.7B-CustomVoice ：阿里最新开源的 Qwen3-TTS-12Hz-1.7B-CustomVoice 模型可在本地笔记本上轻松运行，支持10多种主流语言，并能感知语调、情绪和上下文，同时支持 自定义和克隆音色 。更小的0.6b模型版本为本地用户提供了极大的便利。 Vision Pro 使用体]]></description>
-        </item>
-      
-        <item>
-          <title><![CDATA[2026-01-25日刊]]></title>
-          <link>/2026-01/2026-01-25/</link>
-          <guid>/2026-01/2026-01-25/</guid>
-          <pubDate>Sun, 25 Jan 2026 07:17:35 GMT</pubDate>
-          <content:encoded><![CDATA[<h2>AI洞察日报 2026/1/25</h2><blockquote><p><code>AI 日报</code></p></blockquote><h3><strong>今日AI资讯</strong></h3><ol><li><p><strong>OpenAI</strong> 宣布将在接下来的一个月内发布一系列与 <strong>Codex</strong> 编码模型相关的更新，Sam Altman 表示，这些更新&quot;令人兴奋”，并将很快达到其准备就绪框架的<strong>网络安全高级水平</strong>。OpenAI 正在为应对网络安全挑战做准备，并计划通过限制用户使用其编码模型进行网络犯罪（如&quot;入侵银行并窃取资金”）以及通过<strong>防御性加速</strong>来帮助用户修补漏洞，来应对安全问题。</p></li><li><p><strong>RT Feiteng</strong> 开发了一个名为 <strong>omni-captions-skills</strong> 的 Claude Code 字幕工具，能够帮助用户下载视频并自动添加<strong>中英双语字幕</strong>，其中英文为绿色，中文为黄色。该工具安装简便（npx skills add <a href="https://github.com/lattifai/omni-captions-skills%EF%BC%89%EF%BC%8C%E5%B9%B6%E7%9B%B4%E6%8E%A5%E5%88%A9%E7%94%A8">https://github.com/lattifai/omni-captions-skills），并直接利用</a> Claude 进行翻译，无需额外配置。</p></li><li><p><strong>OpenAI</strong> 将 <strong>Codex</strong> 集成到 <strong>JetBrains IDEs</strong> 中，用户现在可以在 IntelliJ、PyCharm、WebStorm 和 Rider 等开发环境中，通过 ChatGPT 计划使用 <strong>GPT-5.2 驱动的 Codex</strong> 来规划、编写、测试、审查和发布代码，而无需离开代码编辑器。</p></li><li><p><strong>OpenAI</strong> 发布了一篇博客文章，详细介绍了 <strong>Codex Agent Loop</strong> 的工作机制。文章解释了 Codex 在接收用户提示和生成响应之间是如何工作的，包括如何组装输入、运行推理、执行工具并将结果反馈到上下文中，直到循环结束。</p></li><li><p><strong>Google Gemini</strong> 将在 Discord 举办一场<strong>Prompt Off</strong> 活动，鼓励用户使用 <strong>Nano Banana Pro</strong> 提示技巧来创建图像，并由社区投票选出最佳作品。活动详情可在 Gemini Discord 频道获取。</p></li><li><p><strong>Qwen3 TTS</strong> 以其出色的效果和<strong>开源</strong>特性受到关注，尤其能够通过<strong>提示词设计声音效果</strong>，该模型的相关论文和在线体验地址将在评论区提供。</p></li><li><p>据报道，<strong>苹果</strong>正在研发一款类似于 <strong>AirTag 大小</strong>的**&quot;AI Pin”<strong>，该设备配备多个摄像头和麦克风，旨在与 OpenAI 的硬件产品竞争。同时，<strong>OpenAI</strong> 也确认了与 <strong>Jony Ive</strong> 合作开发的</strong>无屏设备**将于 2026 年底推出。</p></li><li><p><strong>归藏(guizang.ai)</strong> 完善了其设计的 <strong>Vibe Coding 键盘</strong>，新增了 3.5 毫米麦克风接口以避免按键声音干扰，并增加了删除键、两个自定义按键和一个用于页面滚动、光标移动或撤销/重做的旋钮。同时，语音输入按键尺寸增大，并配有对应的呼吸灯。</p></li><li><p><strong>Google AI Ultra</strong> 用户在 <strong>Gemini App</strong> 上的使用限制得到提升，每天可获得 1,500 个&quot;Thinking prompts”和 500 个&quot;Pro prompts”。</p></li><li><p><strong>Antigravity</strong> 应用中<strong>无法选择模型</strong>的问题似乎已得到修复。此前，该问题影响了许多用户，被归咎于谷歌工程能力的不足。</p></li></ol>]]></content:encoded>
-          <description><![CDATA[AI洞察日报 2026/1/25 AI 日报 今日AI资讯 OpenAI 宣布将在接下来的一个月内发布一系列与 Codex 编码模型相关的更新，Sam Altman 表示，这些更新&quot;令人兴奋”，并将很快达到其准备就绪框架的 网络安全高级水平 。OpenAI 正在为应对网络安全挑战做准备，并计划通过限制用户使用其编码模型进行网络犯罪（如&quot;入侵银行并窃取资金”）以及通过 防御性加速]]></description>
         </item>
       
   </channel>
