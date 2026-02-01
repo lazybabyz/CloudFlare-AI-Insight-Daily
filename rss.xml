@@ -5,9 +5,18 @@
     <link></link>
     <description> 近 7 天的AI日报</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 31 Jan 2026 23:19:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Feb 2026 23:21:27 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.lazybaby-hk.workers.dev/rss" rel="self" type="application/rss+xml" />
     
+        <item>
+          <title><![CDATA[2026-02-02日刊]]></title>
+          <link>/2026-02/2026-02-02/</link>
+          <guid>/2026-02/2026-02-02/</guid>
+          <pubDate>Mon, 02 Feb 2026 07:21:26 GMT</pubDate>
+          <content:encoded><![CDATA[<h2>AI洞察日报 2026/2/2</h2><blockquote><p><code>AI 日报</code></p></blockquote><h3><strong>今日AI资讯</strong></h3><ol><li><p><strong>Kimi 2.5 开源惹争议，用户质疑&quot;免费”并非真免费。</strong> 有用户表示，Kimi 2.5 被称为&quot;免费”是因为其开源，这引发了&quot;免费”定义的讨论。</p></li><li><p><strong>&quot;Vibe Coding”被定义为愿景的体现，忽略不必要的细节。</strong> 这种编程方式强调将设想转化为代码，而无需过多关注实现的具体过程。</p></li><li><p><strong>Clawdbot 更新支持 Kimi 2.5 和 MiniMax OAuth。</strong> 更新内容包括将 moonshotai/Kimi-K2.5 添加到模型库，以及 MiniMax Coding Plan 支持网页授权登录。</p></li><li><p><strong>用户分享使用 nano banana pro 的提示词经验。</strong> 一位用户展示了如何使用 Niji 6 模型复刻&quot;青蛇劫起”般的国风3D画风，并分享了相关的 Prompt 和风格思路。</p></li><li><p><strong>AI 辅助&quot;复原”丢失的源代码。</strong> 一位开发者分享了如何利用 <strong>Codex</strong> 在五天内从编译后的程序中反编译出可用的 TypeScript 源代码，详细介绍了提取模块结构、解决编译问题、管理上下文以及最终组装代码的过程。</p></li><li><p><strong>KlingAI 宣布 All-In-One 模型。</strong> KlingAI 引入其 CEO @GaikunGk，并预告了集视频 3.0 和 3.0 Omni 功能于一体的 Kling AIO 模型。</p></li><li><p><strong>OpenClaw 集成 Kimi 2.5 教程及注意事项。</strong> 用户分享了关于 OpenClaw 集成 Kimi 2.5 的教程，包括飞书接入和使用中遇到的限制，如文件大小和数量限制。</p></li><li><p><strong>LLM 的&quot;发挥”与&quot;约束”的讨论。</strong> 观点认为，大型语言模型（LLM）更擅长发挥创意，而在约束性方面较弱，因此真正高效使用 LLM（如 Vibe Coding 或龙虾工具）需要用户深入理解底层原理和进行有效约束。</p></li></ol>]]></content:encoded>
+          <description><![CDATA[AI洞察日报 2026/2/2 AI 日报 今日AI资讯 Kimi 2.5 开源惹争议，用户质疑&quot;免费”并非真免费。 有用户表示，Kimi 2.5 被称为&quot;免费”是因为其开源，这引发了&quot;免费”定义的讨论。 &quot;Vibe Coding”被定义为愿景的体现，忽略不必要的细节。 这种编程方式强调将设想转化为代码，而无需过多关注实现的具体过程。 Clawdbot 更新]]></description>
+        </item>
+      
         <item>
           <title><![CDATA[2026-02-01日刊]]></title>
           <link>/2026-02/2026-02-01/</link>
@@ -60,15 +69,6 @@
           <pubDate>Tue, 27 Jan 2026 07:19:27 GMT</pubDate>
           <content:encoded><![CDATA[<h2>AI洞察日报 2026/1/27</h2><blockquote><p><code>AI 日报</code></p></blockquote><h3><strong>今日AI资讯</strong></h3><ol><li><strong>Gemini</strong> 的一项技巧是，将 <strong>Google Doc</strong> 连接到 Gem 时，它会引用文档的最新版本，无需手动更新 Gem。</li><li><strong>Kling AI</strong> 展示了其 <strong>AI动画</strong> 的强大潜力，视频中的所有画面均由 #klingai O1 创建，效果令人惊叹。</li><li><strong>OpenAI</strong> 将于明日举办面向 <strong>AI构建者</strong> 的线上交流会，旨在收集关于新一代工具开发的反馈，并将在 YouTube 进行直播。</li><li><strong>阿里 Qwen</strong> 最新开源的 <strong>TTS模型 Qwen3-TTS-12Hz-1.7B-CustomVoice</strong> 可以在本地设备上流畅运行，支持多种语言、语调和情绪调节，并可自定义音色。</li><li>有用户为 <strong>Vision Pro</strong> 配备了近视镜片，并尝试了 YouTube、Telegram 和 <strong>ChatGPT</strong> 等应用，探索其作为移动办公扩展显示器的潜力。</li></ol>]]></content:encoded>
           <description><![CDATA[AI洞察日报 2026/1/27 AI 日报 今日AI资讯 Gemini 的一项技巧是，将 Google Doc 连接到 Gem 时，它会引用文档的最新版本，无需手动更新 Gem。 Kling AI 展示了其 AI动画 的强大潜力，视频中的所有画面均由 #klingai O1 创建，效果令人惊叹。 OpenAI 将于明日举办面向 AI构建者 的线上交流会，旨在收集关于新一代工具开发的反馈，并将在 ]]></description>
-        </item>
-      
-        <item>
-          <title><![CDATA[2026-01-26日刊]]></title>
-          <link>/2026-01/2026-01-26/</link>
-          <guid>/2026-01/2026-01-26/</guid>
-          <pubDate>Mon, 26 Jan 2026 07:17:55 GMT</pubDate>
-          <content:encoded><![CDATA[<h2>AI洞察日报 2026/1/26</h2><blockquote><p><code>AI 日报</code></p></blockquote><h3><strong>今日AI资讯</strong></h3><ol><li><p><strong>阿里Qwen3-TTS-12Hz-1.7B-CustomVoice</strong>：阿里最新开源的 <strong>Qwen3-TTS-12Hz-1.7B-CustomVoice</strong> 模型可在本地笔记本上轻松运行，支持10多种主流语言，并能感知语调、情绪和上下文，同时支持<strong>自定义和克隆音色</strong>。更小的0.6b模型版本为本地用户提供了极大的便利。</p></li><li><p><strong>Vision Pro 使用体验</strong>：用户为 <strong>Vision Pro</strong> 配备了近视镜片，体验略优于隐形眼镜。在安装特定插件后，尝试了YouTube、Telegram和ChatGPT，并将其作为<strong>移动办公的扩展显示器</strong>，但长时间佩戴仍感不适。</p></li><li><p><strong>OpenAI Codex 更新</strong>：<strong>OpenAI</strong> 计划在未来一个月内发布一系列与 <strong>Codex 编码模型</strong>相关的更新，旨在加强在AI编码领域的竞争力。</p></li><li><p><strong>Claude Code 辅助视频字幕生成</strong>：通过 <strong>Claude Code</strong> 的 <code>omni-captions-skills</code>，用户可以快速下载视频并生成<strong>中英双语字幕</strong>，实现精准对齐，省去了传统字幕制作的繁琐步骤。</p></li><li><p><strong>Claude Code 调用 Codex</strong>：用户可以通过一个简单的Skill，在 <strong>Claude Code</strong> 中方便地调用 <strong>Codex</strong> 模型，实现<strong>自然语言对话编程</strong>，特别适合规划和修复Bug等场景。</p></li><li><p><strong>Codex 集成 JetBrains IDEs</strong>：<strong>OpenAI</strong> 已将 <strong>Codex</strong> 集成到 <strong>JetBrains IDEs</strong>（如IntelliJ、PyCharm等）中，用户可通过ChatGPT订阅在代码编辑器内实现<strong>编码规划、编写、测试和审阅</strong>等功能。</p></li><li><p><strong>Codex Agent Loop 原理</strong>：OpenAI 发布博文，详细介绍了 <strong>Codex Agent Loop</strong> 的工作机制，阐述了模型在用户提示和生成响应之间，如何<strong>组装输入、运行推理、执行工具并反馈结果</strong>。</p></li></ol>]]></content:encoded>
-          <description><![CDATA[AI洞察日报 2026/1/26 AI 日报 今日AI资讯 阿里Qwen3-TTS-12Hz-1.7B-CustomVoice ：阿里最新开源的 Qwen3-TTS-12Hz-1.7B-CustomVoice 模型可在本地笔记本上轻松运行，支持10多种主流语言，并能感知语调、情绪和上下文，同时支持 自定义和克隆音色 。更小的0.6b模型版本为本地用户提供了极大的便利。 Vision Pro 使用体]]></description>
         </item>
       
   </channel>
