@@ -5,9 +5,22 @@
     <link></link>
     <description> 近 7 天的AI日报</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 22 Feb 2026 23:22:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 23:32:20 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.lazybaby-hk.workers.dev/rss" rel="self" type="application/rss+xml" />
     
+        <item>
+          <title><![CDATA[2026-02-24日刊]]></title>
+          <link>/2026-02/2026-02-24/</link>
+          <guid>/2026-02/2026-02-24/</guid>
+          <pubDate>Tue, 24 Feb 2026 07:32:19 GMT</pubDate>
+          <content:encoded><![CDATA[<h2>AI洞察日报 2026/2/24</h2><blockquote><p><code>AI 日报</code></p></blockquote><h3><strong>今日AI资讯</strong></h3><ol><li><p><strong>Anthropic 揭露中国 AI 实验室&quot;蒸馏攻击”</strong>
+AI 公司 <strong>Anthropic</strong> 发布调查报告，指控 <strong>DeepSeek</strong>、<strong>月之暗面（Moonshot/Kimi）</strong> 和 <strong>MiniMax</strong> 三家中国 AI 实验室，涉嫌通过大规模&quot;<strong>蒸馏攻击</strong>”非法提取 <strong>Claude</strong> 模型的能力来训练自家模型。据称，这三家公司共创建了约 2.4 万个虚假账户，与 Claude 产生了超过 1600 万次对话交互。</p></li><li><p><strong>Gemini App 推送 Veo 3.1 新模板</strong><strong>Gemini</strong> 应用今日起开始推送 <strong>Veo 3.1</strong> 的新模板。用户可通过访问 <code>gemini.google</code> 或直接打开应用，在工具菜单中选择&quot;创建视频”来体验。用户还可以上传参考照片或提供描述来个性化视频创作。</p></li><li><p><strong>Codex 助力周末项目开发</strong>
+OpenAI 开发者社区正在分享使用 <strong>Codex</strong> 进行周末项目开发的乐趣，并鼓励大家分享使用 Codex 构建的作品。</p></li><li><p><strong>AI 模型对话记录管理技巧</strong>
+文章分享了关于管理 AI 模型对话记录的技巧：<strong>Codex</strong> 的历史聊天记录可在 <code>~/.codex/sessions</code> 查找，而 <strong>Claude Code</strong> 的记录则存储在 <code>~/.claude/projects</code>。</p></li><li><p><strong>特德·姜探讨 AI 创作艺术的局限性</strong>
+科幻作家 <strong>Ted Chiang</strong>（特德·姜）在《纽约客》发表文章，探讨 <strong>AI 创作艺术</strong>的局限性。他认为，艺术创作的核心在于艺术家的选择过程，而生成式 AI 受限于提示词，无法产生同等质量的艺术作品。他指出，AI 模仿的是人类&quot;<strong>技能</strong>”（skill），而非真正的&quot;<strong>智能</strong>”（Intelligence），并认为这是 AI 无法成为艺术家有效工具的原因。</p></li></ol>]]></content:encoded>
+          <description><![CDATA[AI洞察日报 2026/2/24 AI 日报 今日AI资讯 Anthropic 揭露中国 AI 实验室&quot;蒸馏攻击” AI 公司 Anthropic 发布调查报告，指控 DeepSeek 、 月之暗面（Moonshot/Kimi） 和 MiniMax 三家中国 AI 实验室，涉嫌通过大规模&quot; 蒸馏攻击 ”非法提取 Claude 模型的能力来训练自家模型。据称，这三家公司共创建了约]]></description>
+        </item>
+      
         <item>
           <title><![CDATA[2026-02-23日刊]]></title>
           <link>/2026-02/2026-02-23/</link>
@@ -60,15 +73,6 @@
           <pubDate>Wed, 18 Feb 2026 07:25:53 GMT</pubDate>
           <content:encoded><![CDATA[<h2>AI洞察日报 2026/2/18</h2><blockquote><p><code>AI 日报</code></p></blockquote><h3><strong>今日AI资讯</strong></h3><ol><li><p><strong>Codex</strong> 的发展势头强劲，许多用户正体验到 <strong>5.3 版本</strong>带来的巨大飞跃。如果您的组织尚未尝试过 <strong>Codex</strong>，现在是重新评估的好时机。Sam Altman 表示，<strong>Codex</strong> 的周活跃用户数量自年初以来已增长 <strong>三倍多</strong>。</p></li><li><p><strong>Kimi</strong> 发布了 <strong>Kimi Claw</strong>，该功能支持在 <strong>Kimi</strong> 的云端虚拟机上运行 <strong>Open Claw</strong>，使其能够满负荷运行。<strong>Open Claw</strong> 可以安装 Skills（技能）并连接第三方 IM。目前，该功能需要 <strong>Allegretto</strong> 及以上会员才能体验。<strong>Kimi.ai</strong> 推出的 <strong>Kimi Claw</strong> 现已原生集成于 <strong>kimi.com</strong>，并可 24/7 全天候在浏览器标签页中运行。它提供 <strong>ClawHub 访问</strong>，包含超过 5,000 个社区技能；<strong>40GB 云存储空间</strong>；以及<strong>专业级搜索</strong>功能，可获取实时信息。</p></li></ol>]]></content:encoded>
           <description><![CDATA[AI洞察日报 2026/2/18 AI 日报 今日AI资讯 Codex 的发展势头强劲，许多用户正体验到 5.3 版本 带来的巨大飞跃。如果您的组织尚未尝试过 Codex ，现在是重新评估的好时机。Sam Altman 表示， Codex 的周活跃用户数量自年初以来已增长 三倍多 。 Kimi 发布了 Kimi Claw ，该功能支持在 Kimi 的云端虚拟机上运行 Open Claw ，使其能够]]></description>
-        </item>
-      
-        <item>
-          <title><![CDATA[2026-02-17日刊]]></title>
-          <link>/2026-02/2026-02-17/</link>
-          <guid>/2026-02/2026-02-17/</guid>
-          <pubDate>Tue, 17 Feb 2026 07:26:33 GMT</pubDate>
-          <content:encoded><![CDATA[<h2>AI洞察日报 2026/2/17</h2><blockquote><p><code>AI 日报</code></p></blockquote><h3><strong>今日AI资讯</strong></h3><ol><li><strong>Codex</strong> 的发展势头强劲，用户正在深刻体验 <strong>5.3 版本</strong>所带来的巨大飞跃。如果您的组织尚未尝试过 <strong>Codex</strong>，现在是时候重新审视了。</li><li><strong>Sam Altman</strong> 宣布，自年初以来，<strong>Codex</strong> 的周活跃用户数量已增长 <strong>三倍</strong>以上。</li><li><strong>Kimi.ai</strong> 推出了 <strong>Kimi Claw</strong>，支持在 Kimi 的云端虚拟机上运行 <strong>Open Claw</strong>，提供完整的 <strong>Open Claw</strong> 功能，包括安装 Skills 和连接第三方 IM。该功能目前需要 <strong>Allegretto</strong> 及以上会员才能体验。</li><li><strong>Peter Steinberger</strong> 加盟 <strong>OpenAI</strong>，致力于推动下一代个人智能体（agents）的发展。他将与 <strong>Tibo</strong> 合作，共同打造面向所有人的智能体未来，并持续在 <strong>Codex</strong> 方面取得重大进展。<strong>OpenAI</strong> 承诺支持开源，并继续发展 <strong>Open Claw</strong>，使智能体更加有趣、安全且高效。</li><li><strong>Peter Steinberger</strong> 的加入将驱动 <strong>OpenAI</strong> 在下一代个人智能体领域的创新。他拥有关于智能体之间交互以实现有益功能的卓越见解，预计这将快速成为 <strong>OpenAI</strong> 的核心产品。<strong>Open Claw</strong> 将作为开源项目得到 <strong>OpenAI</strong> 的持续支持，以推动多智能体（multi-agent）的未来发展。</li><li><strong>Sam Altman</strong> 发布的关于 <strong>Peter Steinberger</strong> 加入 <strong>OpenAI</strong> 的消息被 <strong>OpenAI</strong> 官方转发，再次强调了其在下一代个人智能体开发中的重要性，以及 <strong>OpenAI</strong> 对开源项目 <strong>Open Claw</strong> 和多智能体未来的承诺。</li><li><strong>Codex</strong> 在处理诸如修复合并冲突、确保 CI 正常运行以及跨语言重写等繁琐任务方面表现出色，极大地提升了开发者进行更复杂项目构建的雄心。</li><li>在<strong>豆包模型</strong>发布后，<strong>DeepSeek</strong> 模型预计将在春节后推出，已有用户反馈其性能&quot;牛逼”，值得期待。</li><li><strong>豆包大模型 2.0</strong> 测试结果显示：① <strong>多模态能力</strong>突出，尤其在视频理解和推理方面表现优异，对视频剪辑工作有益；② <strong>工具调用</strong>能力良好，可接入 <strong>Open Claw</strong> 和 <strong>Claude Code</strong> 运行 Skill；③ 前端界面审美有待提高，代码能力与顶级模型尚存差距。</li><li>有用户针对&quot;一边只需要 30 个人，一边却连两种颜色都支持不了”的现象，建议使用 <strong>Vibe Coding</strong>。</li><li><strong>Codex</strong> 在 <strong>Shell</strong> 命令方面的熟练度令人赞叹，学习价值极高。</li><li><strong>GPT-5.3-Codex</strong> 在 <strong>UI 设计</strong>方面表现出色，用户 <strong>TK Kong</strong> 称赞其审美能力显著提升，并预测在 API 可用后，将在 <strong>Design Arena</strong> 上名列前茅。</li></ol>]]></content:encoded>
-          <description><![CDATA[AI洞察日报 2026/2/17 AI 日报 今日AI资讯 Codex 的发展势头强劲，用户正在深刻体验 5.3 版本 所带来的巨大飞跃。如果您的组织尚未尝试过 Codex ，现在是时候重新审视了。 Sam Altman 宣布，自年初以来， Codex 的周活跃用户数量已增长 三倍 以上。 Kimi.ai 推出了 Kimi Claw ，支持在 Kimi 的云端虚拟机上运行 Open Claw ，提]]></description>
         </item>
       
   </channel>
