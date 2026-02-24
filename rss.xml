@@ -5,9 +5,18 @@
     <link></link>
     <description> 近 7 天的AI日报</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 23 Feb 2026 23:32:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Feb 2026 23:28:44 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.lazybaby-hk.workers.dev/rss" rel="self" type="application/rss+xml" />
     
+        <item>
+          <title><![CDATA[2026-02-25日刊]]></title>
+          <link>/2026-02/2026-02-25/</link>
+          <guid>/2026-02/2026-02-25/</guid>
+          <pubDate>Wed, 25 Feb 2026 07:28:43 GMT</pubDate>
+          <content:encoded><![CDATA[<h2>AI洞察日报 2026/2/25</h2><blockquote><p><code>AI 日报</code></p></blockquote><h3><strong>今日AI资讯</strong></h3><ol><li><strong>OpenAI</strong> 宣布迎来新任首席人才官 <strong>Arvind KC</strong>，旨在负责任地引领 <strong>AI</strong> 驱动的工作转型，并促进 <strong>AI</strong> 赋能工作模式的扩展，提升人类能力。</li><li><strong>OpenAI</strong> 为 <strong>Codex</strong> 开发者推出了 <strong>WebSockets</strong> 功能，可实现代理的<strong>高速部署</strong>，部署速度提升 <strong>30%</strong>，特别适用于需要低延迟和大量工具调用的<strong>长时运行代理</strong>。</li><li>用户 <strong>Soumitra Shukla</strong> 对 <strong>OpenAI Codex App</strong> 给予高度评价，认为其表现卓越，远超竞品，是同类应用中的佼佼者。</li><li><strong>Antigravity</strong> 负责人 <strong>Varun Mohan</strong> 披露，公司近期<strong>封禁</strong>了一批恶意滥用后端服务的账号，这些用户将服务用作<strong>代理通道</strong>调用其他产品，而非正常使用 <strong>Antigravity</strong> 的编程功能，占用了大量算力，影响了正常用户体验。</li><li><strong>Anthropic</strong> 的调查报告指出，<strong>DeepSeek</strong>、<strong>月之暗面（Moonshot/Kimi）</strong> 和 <strong>MiniMax</strong> 三家中国 AI 实验室涉嫌通过大规模**&quot;蒸馏攻击”**，非法提取 <strong>Claude</strong> 模型能力来训练自家模型，共创建了约 2.4 万个虚假账户，产生了超过 1600 万次对话交互。</li><li><strong>Gemini App</strong> 今日起推出 <strong>Veo 3.1</strong> 的新模板，用户可通过 <strong>gemini.google.com</strong> 或应用内的&quot;创建视频”功能进行体验，并可使用参考照片或描述进行个性化创作。</li><li>用户 <strong>Rory Flynn</strong> 分享了使用 <strong>Kling 3.0</strong> 创作的 <strong>Polaroid F40</strong> 视频，并展示了其在图像、视频和音乐方面的强大工具。</li><li><strong>OpenAI Developers</strong> 鼓励用户分享本周末使用 <strong>Codex</strong> 构建的创新项目，突显 <strong>Codex</strong> 为周末项目带来的乐趣。</li></ol>]]></content:encoded>
+          <description><![CDATA[AI洞察日报 2026/2/25 AI 日报 今日AI资讯 OpenAI 宣布迎来新任首席人才官 Arvind KC ，旨在负责任地引领 AI 驱动的工作转型，并促进 AI 赋能工作模式的扩展，提升人类能力。 OpenAI 为 Codex 开发者推出了 WebSockets 功能，可实现代理的 高速部署 ，部署速度提升 30% ，特别适用于需要低延迟和大量工具调用的 长时运行代理 。 用户 Sou]]></description>
+        </item>
+      
         <item>
           <title><![CDATA[2026-02-24日刊]]></title>
           <link>/2026-02/2026-02-24/</link>
@@ -64,15 +73,6 @@ OpenAI 开发者社区正在分享使用 <strong>Codex</strong> 进行周末项�
           <pubDate>Thu, 19 Feb 2026 07:26:48 GMT</pubDate>
           <content:encoded><![CDATA[<h2>AI洞察日报 2026/2/19</h2><blockquote><p><code>AI 日报</code></p></blockquote><h3><strong>今日AI资讯</strong></h3><ol><li><strong>Gemini 正式上线音乐生成功能，背后是 DeepMind 最新的 Lyria 3 模型。</strong> Google 在 Gemini 应用中推出了 AI 音乐生成功能，使用 DeepMind 开发的 <strong>Lyria 3</strong> 模型，目前以 Beta 形态向全球 18 岁以上用户开放。用户可通过文字描述或上传图片/视频，在几秒内生成 30 秒的音乐音轨，包含人声、歌词和 AI 生成的封面图，标志着 Gemini 的创作能力已延伸至音乐领域。Lyria 3 在歌词自动生成、创作控制精细度和音乐质量方面均有显著提升。</li><li><strong>Google Gemini 举办 Lyria 3 社区活动。</strong> Gemini Discord 服务器于今日（2 月 18 日）举办了一场 <strong>Lyria 3</strong> 社区活动，提供独家提示技巧和现场演示，帮助用户学习如何在 Gemini 中创建音乐。活动于太平洋时间下午 2 点举行。</li><li><strong>Gemini 扩展音频验证功能，支持检测 AI 生成内容。</strong> Gemini 现在支持用户上传音频文件，并询问&quot;这是用 Google AI 创建的吗？”，以检测 <strong>SynthID</strong>（Google 的 AI 生成内容水印）的存在。此功能已从图像和视频扩展到音频。</li><li><strong>Gemini 音乐生成功能支持通过提示词和图片/视频创作。</strong> Gemini 的音乐生成功能可根据用户提供的提示词（如描述场景、情绪、风格）或上传的图片/视频，创作 30 秒的音乐片段，并可控制风格、人声和节奏。Plus/Pro/Ultra 订阅用户享有更高的使用额度。</li><li><strong>Codex 团队正在扩张，寻求多方面人才。</strong> Codex 团队表示已进入加速发展阶段，近期推出了 5.3、Spark、Codex app 和 OpenClaw 等产品，现正招聘全栈 TypeScript、设计工程、Windows 经验、React+Node 性能、高级 Git、Agent Orchestration 和远程 Codex 等领域的人才。</li><li><strong>NotebookLM 支持通过提示词编辑幻灯片并导出 PPTX 格式。</strong> NotebookLM 新增了用户期待已久的功能，支持通过提示词来修改已生成的幻灯片，并可导出为 <strong>PPTX</strong> 格式。</li><li><strong>NotebookLM 更新支持 PPT 单页修改和 PPTX 导出。</strong> NotebookLM 的最新更新允许用户使用提示词来修改生成的 PPT 文稿的单页内容，并支持导出为 PPTX 文件。</li><li><strong>NotebookLM 更新包括提示词修改 PPT 和导出 PPTX 功能。</strong> NotebookLM 的更新要点包括：1. 使用提示词修改已生成的 PPT；2. 支持导出 PPTX 格式。</li><li><strong>Codex 团队在 2 月份取得了重要进展，并寻求人才加入。</strong> Codex 团队表示 2 月份是重要月份，已发布 5.3、Spark、Codex app 和 OpenClaw。团队正在寻找在全栈 TypeScript、设计工程、Windows 经验与分发、React+Node 性能、高级 Git、Agent Orchestration 和远程 Codex 等方面的优秀人才。</li></ol>]]></content:encoded>
           <description><![CDATA[AI洞察日报 2026/2/19 AI 日报 今日AI资讯 Gemini 正式上线音乐生成功能，背后是 DeepMind 最新的 Lyria 3 模型。 Google 在 Gemini 应用中推出了 AI 音乐生成功能，使用 DeepMind 开发的 Lyria 3 模型，目前以 Beta 形态向全球 18 岁以上用户开放。用户可通过文字描述或上传图片/视频，在几秒内生成 30 秒的音乐音轨，包含]]></description>
-        </item>
-      
-        <item>
-          <title><![CDATA[2026-02-18日刊]]></title>
-          <link>/2026-02/2026-02-18/</link>
-          <guid>/2026-02/2026-02-18/</guid>
-          <pubDate>Wed, 18 Feb 2026 07:25:53 GMT</pubDate>
-          <content:encoded><![CDATA[<h2>AI洞察日报 2026/2/18</h2><blockquote><p><code>AI 日报</code></p></blockquote><h3><strong>今日AI资讯</strong></h3><ol><li><p><strong>Codex</strong> 的发展势头强劲，许多用户正体验到 <strong>5.3 版本</strong>带来的巨大飞跃。如果您的组织尚未尝试过 <strong>Codex</strong>，现在是重新评估的好时机。Sam Altman 表示，<strong>Codex</strong> 的周活跃用户数量自年初以来已增长 <strong>三倍多</strong>。</p></li><li><p><strong>Kimi</strong> 发布了 <strong>Kimi Claw</strong>，该功能支持在 <strong>Kimi</strong> 的云端虚拟机上运行 <strong>Open Claw</strong>，使其能够满负荷运行。<strong>Open Claw</strong> 可以安装 Skills（技能）并连接第三方 IM。目前，该功能需要 <strong>Allegretto</strong> 及以上会员才能体验。<strong>Kimi.ai</strong> 推出的 <strong>Kimi Claw</strong> 现已原生集成于 <strong>kimi.com</strong>，并可 24/7 全天候在浏览器标签页中运行。它提供 <strong>ClawHub 访问</strong>，包含超过 5,000 个社区技能；<strong>40GB 云存储空间</strong>；以及<strong>专业级搜索</strong>功能，可获取实时信息。</p></li></ol>]]></content:encoded>
-          <description><![CDATA[AI洞察日报 2026/2/18 AI 日报 今日AI资讯 Codex 的发展势头强劲，许多用户正体验到 5.3 版本 带来的巨大飞跃。如果您的组织尚未尝试过 Codex ，现在是重新评估的好时机。Sam Altman 表示， Codex 的周活跃用户数量自年初以来已增长 三倍多 。 Kimi 发布了 Kimi Claw ，该功能支持在 Kimi 的云端虚拟机上运行 Open Claw ，使其能够]]></description>
         </item>
       
   </channel>
