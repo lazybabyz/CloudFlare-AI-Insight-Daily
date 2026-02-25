@@ -5,9 +5,18 @@
     <link></link>
     <description> 近 7 天的AI日报</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 24 Feb 2026 23:28:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 23:25:47 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.lazybaby-hk.workers.dev/rss" rel="self" type="application/rss+xml" />
     
+        <item>
+          <title><![CDATA[2026-02-26日刊]]></title>
+          <link>/2026-02/2026-02-26/</link>
+          <guid>/2026-02/2026-02-26/</guid>
+          <pubDate>Thu, 26 Feb 2026 07:25:46 GMT</pubDate>
+          <content:encoded><![CDATA[<h2>AI洞察日报 2026/2/26</h2><blockquote><p><code>AI 日报</code></p></blockquote><h3><strong>今日AI资讯</strong></h3><ol><li><strong>OpenAI 迎来新任首席人事官，致力于负责任的 AI 转型。</strong> OpenAI 宣布 Arvind KC 正式加入公司担任首席人事官（Chief People Officer），旨在推动 <strong>AI</strong> 驱动的工作方式的演进，并使其成为扩展人类能力的典范。</li><li><strong>OpenAI 引入 WebSockets，显著提升 Agentic 功能的部署速度。</strong> OpenAI 开发者宣布在其 Responses API 中引入 <strong>WebSockets</strong> 功能，能够为需要低延迟和长时间运行的 <strong>Agentic</strong> 应用提供支持，并在 Codex 中实现了 <strong>30%</strong> 的部署速度提升。</li><li><strong>Codex 应用获得高度评价，被赞誉为业界领先。</strong> 用户 Soumitra Shukla 对 OpenAI 的 Codex 应用给予了极高评价，认为其独一无二，远超竞争对手，并称其&quot;不在同一个级别”。</li><li><strong>Antigravity 封禁滥用账号，保障用户体验。</strong> Antigravity 负责人 Varun Mohan 表示，为应对 <strong>恶意滥用</strong> 行为对正常用户体验造成的严重影响，公司已紧急封禁了一批账号。这些滥用行为主要是将 Antigravity 作为代理通道调用其他服务，而非利用其编程功能。公司承认此次处理方式欠妥，并表示将为受影响用户提供恢复途径，同时优先保障正常用户的使用体验。此次封禁仅限于 Antigravity 产品。</li></ol>]]></content:encoded>
+          <description><![CDATA[AI洞察日报 2026/2/26 AI 日报 今日AI资讯 OpenAI 迎来新任首席人事官，致力于负责任的 AI 转型。 OpenAI 宣布 Arvind KC 正式加入公司担任首席人事官（Chief People Officer），旨在推动 AI 驱动的工作方式的演进，并使其成为扩展人类能力的典范。 OpenAI 引入 WebSockets，显著提升 Agentic 功能的部署速度。 Open]]></description>
+        </item>
+      
         <item>
           <title><![CDATA[2026-02-25日刊]]></title>
           <link>/2026-02/2026-02-25/</link>
@@ -64,15 +73,6 @@ OpenAI 开发者社区正在分享使用 <strong>Codex</strong> 进行周末项�
           <pubDate>Fri, 20 Feb 2026 07:27:04 GMT</pubDate>
           <content:encoded><![CDATA[<h2>AI洞察日报 2026/2/20</h2><blockquote><p><code>AI 日报</code></p></blockquote><h3><strong>今日AI资讯</strong></h3><ol><li><strong>Codex App</strong> 引起了用户从 Emacs/Terminal 的转变。</li><li><strong>Gemini</strong> 成功生成了一首表达对2026年中国新年（马年）喜悦与期待的中国风格 <strong>8-bit音乐</strong>，该曲融合了复古电子音效与中国民乐旋律。</li><li>有用户认为 <strong>Gemini</strong> 生成的音乐与 <strong>Suno</strong> 相比存在差距，主要体现在生成时长（仅30秒）、歌曲结构不完整、不押韵以及中文唱腔古怪等方面。<strong>Google</strong> 推出了其最新的音乐生成模型 <strong>Lyria 3</strong>，允许用户在 <strong>Gemini App</strong> 中通过描述、图片或视频来创建音乐。</li><li>用户分享了 <strong>Gemini</strong> 新增的音乐生成功能，并提及 <strong>Google DeepMind</strong> 的 <strong>Lyria 3</strong> 模型。</li><li><strong>Gemini App</strong> 宣布将举办 <strong>Lyria 3</strong> 社区活动，并邀请用户加入其 <strong>Discord</strong> 服务器，以获取独家提示词技巧和现场演示。</li><li>用户分享了如何从 <strong>Gemini</strong> 操作音乐生成功能。</li><li><strong>Gemini App</strong> 再次发布了关于 <strong>Lyria 3</strong> 社区活动的通知，强调将提供提示词技巧和现场演示，并鼓励用户加入 <strong>Discord</strong>。</li><li><strong>Google Gemini</strong> 正式上线了由 <strong>DeepMind</strong> 的 <strong>Lyria 3</strong> 模型驱动的 <strong>AI音乐生成功能</strong>，该功能以 Beta 形式面向全球18岁以上用户开放，用户可通过文字描述或上传图片/视频生成30秒音轨，并配有AI生成的封面图。</li><li><strong>Google</strong> 宣布 <strong>Gemini App</strong> 扩展了验证工具，用户现可上传音频文件，通过 <strong>SynthID</strong>（AI生成内容的水印技术）检测其是否为 <strong>Google AI</strong> 生成。</li><li>用户通过 <strong>Gemini</strong> 体验了其音乐生成功能，并对 <strong>Lyria 3</strong> 模型在生成歌曲、控制风格、人声和节奏方面的能力表示肯定，同时也提到了 <strong>Plus/Pro/Ultra</strong> 订阅用户享有更高的使用额度。</li><li><strong>Codex</strong> 团队正在招聘，包括全栈 TypeScript、设计工程、Windows 经验+分发、React+Node 性能、Agent Orchestration 和 Remote Codex 等职位。</li><li><strong>NotebookLM</strong> 更新，现已支持通过提示词来编辑和修改 <strong>PPT</strong>，并支持导出 <strong>PPTX</strong> 格式。</li><li><strong>NotebookLM</strong> 更新了 <strong>PPT</strong> 编辑功能，允许用户使用提示词修改单页内容，并支持导出 <strong>PPTX</strong> 格式。</li><li><strong>NotebookLM</strong> 更新包括：① 通过提示词修改已生成的 <strong>PPT</strong>；② 支持导出 <strong>PPTX</strong> 格式。</li></ol>]]></content:encoded>
           <description><![CDATA[AI洞察日报 2026/2/20 AI 日报 今日AI资讯 Codex App 引起了用户从 Emacs/Terminal 的转变。 Gemini 成功生成了一首表达对2026年中国新年（马年）喜悦与期待的中国风格 8-bit音乐 ，该曲融合了复古电子音效与中国民乐旋律。 有用户认为 Gemini 生成的音乐与 Suno 相比存在差距，主要体现在生成时长（仅30秒）、歌曲结构不完整、不押韵以及中文]]></description>
-        </item>
-      
-        <item>
-          <title><![CDATA[2026-02-19日刊]]></title>
-          <link>/2026-02/2026-02-19/</link>
-          <guid>/2026-02/2026-02-19/</guid>
-          <pubDate>Thu, 19 Feb 2026 07:26:48 GMT</pubDate>
-          <content:encoded><![CDATA[<h2>AI洞察日报 2026/2/19</h2><blockquote><p><code>AI 日报</code></p></blockquote><h3><strong>今日AI资讯</strong></h3><ol><li><strong>Gemini 正式上线音乐生成功能，背后是 DeepMind 最新的 Lyria 3 模型。</strong> Google 在 Gemini 应用中推出了 AI 音乐生成功能，使用 DeepMind 开发的 <strong>Lyria 3</strong> 模型，目前以 Beta 形态向全球 18 岁以上用户开放。用户可通过文字描述或上传图片/视频，在几秒内生成 30 秒的音乐音轨，包含人声、歌词和 AI 生成的封面图，标志着 Gemini 的创作能力已延伸至音乐领域。Lyria 3 在歌词自动生成、创作控制精细度和音乐质量方面均有显著提升。</li><li><strong>Google Gemini 举办 Lyria 3 社区活动。</strong> Gemini Discord 服务器于今日（2 月 18 日）举办了一场 <strong>Lyria 3</strong> 社区活动，提供独家提示技巧和现场演示，帮助用户学习如何在 Gemini 中创建音乐。活动于太平洋时间下午 2 点举行。</li><li><strong>Gemini 扩展音频验证功能，支持检测 AI 生成内容。</strong> Gemini 现在支持用户上传音频文件，并询问&quot;这是用 Google AI 创建的吗？”，以检测 <strong>SynthID</strong>（Google 的 AI 生成内容水印）的存在。此功能已从图像和视频扩展到音频。</li><li><strong>Gemini 音乐生成功能支持通过提示词和图片/视频创作。</strong> Gemini 的音乐生成功能可根据用户提供的提示词（如描述场景、情绪、风格）或上传的图片/视频，创作 30 秒的音乐片段，并可控制风格、人声和节奏。Plus/Pro/Ultra 订阅用户享有更高的使用额度。</li><li><strong>Codex 团队正在扩张，寻求多方面人才。</strong> Codex 团队表示已进入加速发展阶段，近期推出了 5.3、Spark、Codex app 和 OpenClaw 等产品，现正招聘全栈 TypeScript、设计工程、Windows 经验、React+Node 性能、高级 Git、Agent Orchestration 和远程 Codex 等领域的人才。</li><li><strong>NotebookLM 支持通过提示词编辑幻灯片并导出 PPTX 格式。</strong> NotebookLM 新增了用户期待已久的功能，支持通过提示词来修改已生成的幻灯片，并可导出为 <strong>PPTX</strong> 格式。</li><li><strong>NotebookLM 更新支持 PPT 单页修改和 PPTX 导出。</strong> NotebookLM 的最新更新允许用户使用提示词来修改生成的 PPT 文稿的单页内容，并支持导出为 PPTX 文件。</li><li><strong>NotebookLM 更新包括提示词修改 PPT 和导出 PPTX 功能。</strong> NotebookLM 的更新要点包括：1. 使用提示词修改已生成的 PPT；2. 支持导出 PPTX 格式。</li><li><strong>Codex 团队在 2 月份取得了重要进展，并寻求人才加入。</strong> Codex 团队表示 2 月份是重要月份，已发布 5.3、Spark、Codex app 和 OpenClaw。团队正在寻找在全栈 TypeScript、设计工程、Windows 经验与分发、React+Node 性能、高级 Git、Agent Orchestration 和远程 Codex 等方面的优秀人才。</li></ol>]]></content:encoded>
-          <description><![CDATA[AI洞察日报 2026/2/19 AI 日报 今日AI资讯 Gemini 正式上线音乐生成功能，背后是 DeepMind 最新的 Lyria 3 模型。 Google 在 Gemini 应用中推出了 AI 音乐生成功能，使用 DeepMind 开发的 Lyria 3 模型，目前以 Beta 形态向全球 18 岁以上用户开放。用户可通过文字描述或上传图片/视频，在几秒内生成 30 秒的音乐音轨，包含]]></description>
         </item>
       
   </channel>
