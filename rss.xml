@@ -5,9 +5,18 @@
     <link></link>
     <description> 近 7 天的AI日报</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Feb 2026 23:21:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Feb 2026 23:19:13 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.lazybaby-hk.workers.dev/rss" rel="self" type="application/rss+xml" />
     
+        <item>
+          <title><![CDATA[2026-03-01日刊]]></title>
+          <link>/2026-03/2026-03-01/</link>
+          <guid>/2026-03/2026-03-01/</guid>
+          <pubDate>Sun, 01 Mar 2026 07:19:12 GMT</pubDate>
+          <content:encoded><![CDATA[<h2>AI洞察日报 2026/3/1</h2><blockquote><p><code>AI 日报</code></p></blockquote><h3><strong>今日AI资讯</strong></h3><ol><li><strong>OpenAI</strong> 与 <strong>美国国防部</strong> 达成协议，将在其<strong>机密网络</strong>中部署 <strong>AI模型</strong>。OpenAI 强调国防部对<strong>安全</strong>表现出深切尊重。协议签署的同一天，<strong>特朗普</strong>下令联邦政府全面停止与 <strong>Anthropic</strong> 的合作。协议内容包含 OpenAI 的两条核心安全原则：禁止国内大规模监控，以及武力使用必须由人类负责。OpenAI 模型将仅在云端部署，不进入边缘设备，并派驻持有安全许可的工程师监控。</li><li>OpenAI 正在与美国国防部谈判一份 AI 部署合同。据报道，Sam Altman 在周五的全员会上向员工通报了谈判进展，合同尚未签署。五角大楼接受了 OpenAI 提出的安全红线：不用于自主武器、不搞国内大规模监控、不做关键决策，而这些条件与 Anthropic 坚持的几乎一致。</li><li>著名游戏主播 <strong>PewDiePie</strong> 利用 <strong>Qwen2.5</strong> 模型，结合 Deepseek 和清华大学的论文，成功训练出自己的<strong>本地大模型</strong>，并在基准测试中超过 ChatGPT。他使用的硬件是中国购买的魔改 4090 显卡，这为各国建立自有模型提供了示范。</li><li><strong>codex 5.3</strong> 版本在处理<strong>复杂的软件工程</strong>任务时表现出色，能够绕过 HuggingFace 的 KV 缓存抽象，并处理 M-RoPE 等高级技术。</li><li><strong>Kling 3.0</strong> 在 <strong>Artificial Analysis Video Arena</strong> 的文本生成视频评测中，再次获得<strong>第一名</strong>，在&quot;有音频”和&quot;无音频”类别中均超越了 Grok Imagine、Runway Gen-4.5 和 Veo 3.1。</li><li><strong>LiteLLM</strong> 项目被推荐用于管理 <strong>API key</strong>，相当于在本地搭建了一个 OpenRouter，方便管理和使用各种模型的 API。它还提供可视化 Web 界面来管理模型配置。</li><li>作者使用大疆 mic3 和 <strong>Claude</strong> (CC) 实现了智能音频处理。通过将外接磁盘命名为 DJI，Claude 能够自动识别并读取磁盘内容，调用 Whisper3 Large 进行<strong>语音转录</strong>，并将结果存入 Obsidian 的指定文件夹，效率极高。</li></ol>]]></content:encoded>
+          <description><![CDATA[AI洞察日报 2026/3/1 AI 日报 今日AI资讯 OpenAI 与 美国国防部 达成协议，将在其 机密网络 中部署 AI模型 。OpenAI 强调国防部对 安全 表现出深切尊重。协议签署的同一天， 特朗普 下令联邦政府全面停止与 Anthropic 的合作。协议内容包含 OpenAI 的两条核心安全原则：禁止国内大规模监控，以及武力使用必须由人类负责。OpenAI 模型将仅在云端部署，不进]]></description>
+        </item>
+      
         <item>
           <title><![CDATA[2026-02-28日刊]]></title>
           <link>/2026-02/2026-02-28/</link>
@@ -64,15 +73,6 @@ OpenAI 开发者社区正在分享使用 <strong>Codex</strong> 进行周末项�
           <pubDate>Mon, 23 Feb 2026 07:22:22 GMT</pubDate>
           <content:encoded><![CDATA[<h2>AI洞察日报 2026/2/23</h2><blockquote><p><code>AI 日报</code></p></blockquote><h3><strong>今日AI资讯</strong></h3><ol><li><p>用户可以通过指定路径来查找 <strong>Codex</strong> 的历史聊天记录（<code>~/.codex/sessions</code>），而 <strong>Claude Code</strong> 的记录则保存在 <code>~/.claude/projects</code>。</p></li><li><p>科幻作家特德·姜在《纽约客》发表的文章《为什么AI不能创造艺术》，再次引发了关于 <strong>AI创作</strong> 的讨论。他认为，艺术创作的关键在于艺术家做出无数个选择的过程，而 <strong>生成式AI</strong> 受限于提示词，其选择范围有限，因此无法产生同等质量的艺术品。他指出，AI模仿的是&quot;技能”，距离&quot;智能”尚有很大差距。</p></li><li><p><strong>Codex</strong> 提供了一个便捷的API，可以通过运行&quot;codex app-server”来访问。有用户成功地将 <strong>Codex</strong> 集成到了自制的iPhone应用中，实现了在网络中随时调用和对话。</p></li><li><p><strong>Codex</strong> 可用于 <strong>端到端的开发工作流</strong>。有开发者发现，能够利用OpenAI Codex应用控制iPhone模拟器，进行应用测试、截图抓取和调整，极大地简化了自动化测试的流程。</p></li><li><p>用户评价 <strong>Codex app</strong> 非常出色，并对其使用的 <strong>模型</strong> 表现出了好奇。</p></li><li><p><strong>NotebookLM</strong> 移动应用新增了 <strong>视频摘要</strong> 自定义功能，允许用户在手机上观看视频时，获得与来源内容相关的、个性化的教育性摘要。</p></li><li><p>OpenAI团队在各项业务上取得了显著的 <strong>积极进展</strong>，团队对此感到非常自豪。</p></li></ol>]]></content:encoded>
           <description><![CDATA[AI洞察日报 2026/2/23 AI 日报 今日AI资讯 用户可以通过指定路径来查找 Codex 的历史聊天记录（ ~/.codex/sessions ），而 Claude Code 的记录则保存在 ~/.claude/projects 。 科幻作家特德·姜在《纽约客》发表的文章《为什么AI不能创造艺术》，再次引发了关于 AI创作 的讨论。他认为，艺术创作的关键在于艺术家做出无数个选择的过程，而]]></description>
-        </item>
-      
-        <item>
-          <title><![CDATA[2026-02-22日刊]]></title>
-          <link>/2026-02/2026-02-22/</link>
-          <guid>/2026-02/2026-02-22/</guid>
-          <pubDate>Sun, 22 Feb 2026 07:21:03 GMT</pubDate>
-          <content:encoded><![CDATA[<h2>AI洞察日报 2026/2/22</h2><blockquote><p><code>AI 日报</code></p></blockquote><h3><strong>今日AI资讯</strong></h3><ol><li><strong>Codex API</strong> 提供了便捷的访问方式，只需运行 &quot;codex app-server”。SIGKITTEN 分享称，Codex app-server 非常实用，他甚至基于此创建了一个 <strong>iPhone 应用</strong>，可以在网络内的任何地方生成并与 Codex 交互。他成功将 Codex 集成到 iPhone 应用中，并展示了部分实现效果。</li><li><strong>Codex</strong> 可用于<strong>端到端的开发工作流</strong>。Andrew Mayne 发现，他可以使用 OpenAI Codex 应用来控制 iPhone 模拟器，进行应用测试、截图抓取和调整，极大地简化了自动化测试的流程。</li><li><strong>Codex 应用</strong>受到了好评。Paul Solt 对此表示好奇，并询问大家正在使用哪种模型进行 <strong>Model Harness</strong>。</li><li><strong>NotebookLM 移动应用</strong>现已支持<strong>自定义视频概览</strong>功能，使用户可以更方便地在手机上观看教育性、基于来源内容且风格可爱的视频。</li><li>OpenAI <strong>团队</strong>在各个项目上取得了显著的<strong>积极进展</strong>，这让团队感到非常自豪。</li><li><strong>Codex 社区线下聚会</strong>正在各地举行，OpenAI 开发者大使正在组织活动，鼓励开发者们在当地社区创建和发布项目，交流工作流程，并与使用 Codex 的同行建立联系。</li><li>在一次与印度总理 <strong>Narendra Modi</strong> 的会谈中，双方讨论了印度在 <strong>AI 领域</strong>的巨大潜力。印度已成为 Codex 的<strong>增长最快的市场</strong>，周活跃用户在过去两周内增长了 4 倍。</li><li>Vercel Developers 宣布 <strong>Kling 视频模型</strong>现已上线 <strong>AI Gateway</strong>，支持文本到视频、图像到视频、多镜头、首尾帧等多种生成方式，并提供了使用示例。</li><li><strong>Google 发布 Gemini 3.1 Pro</strong>，其<strong>推理能力翻倍</strong>，重新回到 AI 模型第一梯队。该模型在 ARC-AGI-2（新逻辑模式解决能力）上得分 77.1%，远超 Claude Opus 4.6 (68.8%) 和 GPT-5.2 (52.9%)。在 Humanity&#39;s Last Exam (高级学术推理) 和 GPQA Diamond (科学知识) 上也表现出色。</li><li><strong>Gemini 3.1 Pro</strong> 在<strong>编码和 Agent 方面</strong>也得到了全面提升，LiveCodeBench Pro Elo 达到 2887，SWE-Bench Verified 得分 80.6%，APEX-Agents 得分 33.5%，BrowseComp 得分 85.9%。Google 还推出了针对 Agent 场景优化的 <code>gemini-3.1-pro-preview-customtools</code> 端点。</li><li><strong>Gemini 3.1 Pro</strong> 在<strong>某些维度</strong>上并非最强，例如在 LM Arena 用户投票排名中，Claude Opus 4.6 在文本和编码类别中仍然靠前，在 GDPval-AA (专家任务) 上 Claude Sonnet 4.6 也大幅领先。</li><li><strong>Gemini 3.1 Pro API</strong> 方面有几项实用更新，包括文件上传限制提升至 100MB，支持直接分析 YouTube URL，以及新增 <code>medium</code> 级别的 <code>thinking_level</code>。需要注意 <code>total_reasoning_tokens</code> 已更名为 <code>total_thought_tokens</code>。</li><li>Gemini 3.1 Pro 支持最多 <strong>100 万 token 输入上下文</strong>和 <strong>6.4 万 token 输出</strong>，并具备原生多模态能力。</li><li>Gemini 3.1 Pro 的<strong>定价与 Gemini 3 Pro 相同</strong>，200k token 以内输入 $2/百万 token，输出 $12/百万 token；超过 200k 则为 $4/$18。其性价比显著提高。</li><li>普通用户可通过 Gemini app 和 NotebookLM 使用 Gemini 3.1 Pro，需要订阅 Google AI Pro 或 Ultra。开发者可以通过 AI Studio、Gemini API 等多种方式访问，模型标识符为 <code>gemini-3.1-pro-preview</code>。</li><li><strong>Sundar Pichai</strong> 宣布 <strong>Gemini 3.1 Pro</strong> 发布，强调其在核心推理能力上的显著提升（ARC-AGI-2 得分 77.1%），并指出该模型在处理复杂任务方面表现出色，例如可视化困难概念、合成数据以及创意生成。</li></ol>]]></content:encoded>
-          <description><![CDATA[AI洞察日报 2026/2/22 AI 日报 今日AI资讯 Codex API 提供了便捷的访问方式，只需运行 &quot;codex app-server”。SIGKITTEN 分享称，Codex app-server 非常实用，他甚至基于此创建了一个 iPhone 应用 ，可以在网络内的任何地方生成并与 Codex 交互。他成功将 Codex 集成到 iPhone 应用中，并展示了部分实现效果]]></description>
         </item>
       
   </channel>
