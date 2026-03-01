@@ -5,9 +5,18 @@
     <link></link>
     <description> 近 7 天的AI日报</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Feb 2026 23:19:13 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2026 23:20:25 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.lazybaby-hk.workers.dev/rss" rel="self" type="application/rss+xml" />
     
+        <item>
+          <title><![CDATA[2026-03-02日刊]]></title>
+          <link>/2026-03/2026-03-02/</link>
+          <guid>/2026-03/2026-03-02/</guid>
+          <pubDate>Mon, 02 Mar 2026 07:20:24 GMT</pubDate>
+          <content:encoded><![CDATA[<h2>AI洞察日报 2026/3/2</h2><blockquote><p><code>AI 日报</code></p></blockquote><h3><strong>今日AI资讯</strong></h3><ol><li><p><strong>Codex</strong> 的周活跃用户数量自年初以来增长了 <strong>两倍多</strong>，已达到 <strong>160 万</strong>。尽管有人表示更偏好使用 Claude Code，但 Codex 的快速追赶势头强劲。</p></li><li><p><strong>Anthropic</strong> 推出了 <strong>Memory Import</strong> 工具，允许用户将 <strong>ChatGPT</strong>、<strong>Gemini</strong> 等 AI 助手中的记忆和上下文一键迁移至 Claude。该工具直接写入 Claude 的记忆系统，操作简便，旨在利用 ChatGPT 完善的记忆系统来增强用户粘性。</p></li><li><p>一张图片展示了&quot;vibe coding”的场景，暗示了通过某种方式进行编码。</p></li><li><p><strong>OpenAI</strong> 已与 <strong>美国国防部</strong> 达成协议，将在其机密环境中部署先进的 AI 系统。OpenAI 表示，此次部署比以往的机密 AI 部署（包括 Anthropic 的）拥有更多安全保障措施。</p></li><li><p><strong>OpenAI</strong> 宣布与 <strong>美国国防部</strong> 达成协议，将在其机密网络中部署 AI 模型。国防部对安全表现出高度尊重，并同意了 OpenAI 的两条核心安全原则：禁止国内大规模监控，以及武力使用（包括自主武器系统）必须由人类负责。</p></li><li><p><strong>OpenAI</strong> 正在与 <strong>美国国防部</strong> 洽谈一份 AI 部署合同。在同一天，<strong>特朗普</strong> 命令联邦政府全面停止与 <strong>Anthropic</strong> 的合作。五角大楼接受了 OpenAI 提出的安全限制条件，包括不用于自主武器、不进行国内大规模监控、以及不用于关键决策，这些条件与 Anthropic 此前坚持的几乎一致。</p></li><li><p>游戏主播 <strong>PewDiePie</strong> 利用 <strong>Qwen2.5</strong> 模型，并参考 <strong>Deepseek</strong> 和清华大学的论文，成功训练了自己的本地大模型。该模型在基准测试中 <strong>超越了 ChatGPT</strong>，其训练使用了在中国购买的 <strong>魔改 4090 显卡</strong>。</p></li></ol>]]></content:encoded>
+          <description><![CDATA[AI洞察日报 2026/3/2 AI 日报 今日AI资讯 Codex 的周活跃用户数量自年初以来增长了 两倍多 ，已达到 160 万 。尽管有人表示更偏好使用 Claude Code，但 Codex 的快速追赶势头强劲。 Anthropic 推出了 Memory Import 工具，允许用户将 ChatGPT 、 Gemini 等 AI 助手中的记忆和上下文一键迁移至 Claude。该工具直接写入]]></description>
+        </item>
+      
         <item>
           <title><![CDATA[2026-03-01日刊]]></title>
           <link>/2026-03/2026-03-01/</link>
@@ -64,15 +73,6 @@ OpenAI 开发者社区正在分享使用 <strong>Codex</strong> 进行周末项�
 文章分享了关于管理 AI 模型对话记录的技巧：<strong>Codex</strong> 的历史聊天记录可在 <code>~/.codex/sessions</code> 查找，而 <strong>Claude Code</strong> 的记录则存储在 <code>~/.claude/projects</code>。</p></li><li><p><strong>特德·姜探讨 AI 创作艺术的局限性</strong>
 科幻作家 <strong>Ted Chiang</strong>（特德·姜）在《纽约客》发表文章，探讨 <strong>AI 创作艺术</strong>的局限性。他认为，艺术创作的核心在于艺术家的选择过程，而生成式 AI 受限于提示词，无法产生同等质量的艺术作品。他指出，AI 模仿的是人类&quot;<strong>技能</strong>”（skill），而非真正的&quot;<strong>智能</strong>”（Intelligence），并认为这是 AI 无法成为艺术家有效工具的原因。</p></li></ol>]]></content:encoded>
           <description><![CDATA[AI洞察日报 2026/2/24 AI 日报 今日AI资讯 Anthropic 揭露中国 AI 实验室&quot;蒸馏攻击” AI 公司 Anthropic 发布调查报告，指控 DeepSeek 、 月之暗面（Moonshot/Kimi） 和 MiniMax 三家中国 AI 实验室，涉嫌通过大规模&quot; 蒸馏攻击 ”非法提取 Claude 模型的能力来训练自家模型。据称，这三家公司共创建了约]]></description>
-        </item>
-      
-        <item>
-          <title><![CDATA[2026-02-23日刊]]></title>
-          <link>/2026-02/2026-02-23/</link>
-          <guid>/2026-02/2026-02-23/</guid>
-          <pubDate>Mon, 23 Feb 2026 07:22:22 GMT</pubDate>
-          <content:encoded><![CDATA[<h2>AI洞察日报 2026/2/23</h2><blockquote><p><code>AI 日报</code></p></blockquote><h3><strong>今日AI资讯</strong></h3><ol><li><p>用户可以通过指定路径来查找 <strong>Codex</strong> 的历史聊天记录（<code>~/.codex/sessions</code>），而 <strong>Claude Code</strong> 的记录则保存在 <code>~/.claude/projects</code>。</p></li><li><p>科幻作家特德·姜在《纽约客》发表的文章《为什么AI不能创造艺术》，再次引发了关于 <strong>AI创作</strong> 的讨论。他认为，艺术创作的关键在于艺术家做出无数个选择的过程，而 <strong>生成式AI</strong> 受限于提示词，其选择范围有限，因此无法产生同等质量的艺术品。他指出，AI模仿的是&quot;技能”，距离&quot;智能”尚有很大差距。</p></li><li><p><strong>Codex</strong> 提供了一个便捷的API，可以通过运行&quot;codex app-server”来访问。有用户成功地将 <strong>Codex</strong> 集成到了自制的iPhone应用中，实现了在网络中随时调用和对话。</p></li><li><p><strong>Codex</strong> 可用于 <strong>端到端的开发工作流</strong>。有开发者发现，能够利用OpenAI Codex应用控制iPhone模拟器，进行应用测试、截图抓取和调整，极大地简化了自动化测试的流程。</p></li><li><p>用户评价 <strong>Codex app</strong> 非常出色，并对其使用的 <strong>模型</strong> 表现出了好奇。</p></li><li><p><strong>NotebookLM</strong> 移动应用新增了 <strong>视频摘要</strong> 自定义功能，允许用户在手机上观看视频时，获得与来源内容相关的、个性化的教育性摘要。</p></li><li><p>OpenAI团队在各项业务上取得了显著的 <strong>积极进展</strong>，团队对此感到非常自豪。</p></li></ol>]]></content:encoded>
-          <description><![CDATA[AI洞察日报 2026/2/23 AI 日报 今日AI资讯 用户可以通过指定路径来查找 Codex 的历史聊天记录（ ~/.codex/sessions ），而 Claude Code 的记录则保存在 ~/.claude/projects 。 科幻作家特德·姜在《纽约客》发表的文章《为什么AI不能创造艺术》，再次引发了关于 AI创作 的讨论。他认为，艺术创作的关键在于艺术家做出无数个选择的过程，而]]></description>
         </item>
       
   </channel>
