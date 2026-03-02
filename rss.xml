@@ -5,9 +5,18 @@
     <link></link>
     <description> 近 7 天的AI日报</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 01 Mar 2026 23:20:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2026 23:22:36 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.lazybaby-hk.workers.dev/rss" rel="self" type="application/rss+xml" />
     
+        <item>
+          <title><![CDATA[2026-03-03日刊]]></title>
+          <link>/2026-03/2026-03-03/</link>
+          <guid>/2026-03/2026-03-03/</guid>
+          <pubDate>Tue, 03 Mar 2026 07:22:35 GMT</pubDate>
+          <content:encoded><![CDATA[<h2>AI洞察日报 2026/3/3</h2><blockquote><p><code>AI 日报</code></p></blockquote><h3><strong>今日AI资讯</strong></h3><ol><li><strong>Anthropic服务全线故障</strong>，用户被迫停止&quot;Vibe Coding”。</li><li>部分用户将&quot;Vibe Coding”误认为&quot;Agentic Engineering”，有观点认为应使用后者以提升工程思维价值。</li><li><strong>MiroMiro Chrome插件</strong>被推荐为前端开发必备工具，可查看配色、字体，支持&quot;Vibe Coding”，并能下载网页中的视频和图片。</li><li><strong>Codex</strong>的用户周活跃度自年初以来增长超过两倍，达到160万，显示出强劲的增长势头，虽然部分用户仍偏好Claude Code。</li><li><strong>Anthropic推出记忆迁移工具</strong>，允许用户将ChatGPT、Gemini等AI助手中的记忆导入Claude，此举被视为对OpenAI的重要竞争策略。</li><li>有用户发布了与&quot;Vibe Coding”相关的图片，并表示需要&quot;戒掉”这种工作方式。</li></ol>]]></content:encoded>
+          <description><![CDATA[AI洞察日报 2026/3/3 AI 日报 今日AI资讯 Anthropic服务全线故障 ，用户被迫停止&quot;Vibe Coding”。 部分用户将&quot;Vibe Coding”误认为&quot;Agentic Engineering”，有观点认为应使用后者以提升工程思维价值。 MiroMiro Chrome插件 被推荐为前端开发必备工具，可查看配色、字体，支持&quot;Vibe C]]></description>
+        </item>
+      
         <item>
           <title><![CDATA[2026-03-02日刊]]></title>
           <link>/2026-03/2026-03-02/</link>
@@ -60,19 +69,6 @@
           <pubDate>Wed, 25 Feb 2026 07:28:43 GMT</pubDate>
           <content:encoded><![CDATA[<h2>AI洞察日报 2026/2/25</h2><blockquote><p><code>AI 日报</code></p></blockquote><h3><strong>今日AI资讯</strong></h3><ol><li><strong>OpenAI</strong> 宣布迎来新任首席人才官 <strong>Arvind KC</strong>，旨在负责任地引领 <strong>AI</strong> 驱动的工作转型，并促进 <strong>AI</strong> 赋能工作模式的扩展，提升人类能力。</li><li><strong>OpenAI</strong> 为 <strong>Codex</strong> 开发者推出了 <strong>WebSockets</strong> 功能，可实现代理的<strong>高速部署</strong>，部署速度提升 <strong>30%</strong>，特别适用于需要低延迟和大量工具调用的<strong>长时运行代理</strong>。</li><li>用户 <strong>Soumitra Shukla</strong> 对 <strong>OpenAI Codex App</strong> 给予高度评价，认为其表现卓越，远超竞品，是同类应用中的佼佼者。</li><li><strong>Antigravity</strong> 负责人 <strong>Varun Mohan</strong> 披露，公司近期<strong>封禁</strong>了一批恶意滥用后端服务的账号，这些用户将服务用作<strong>代理通道</strong>调用其他产品，而非正常使用 <strong>Antigravity</strong> 的编程功能，占用了大量算力，影响了正常用户体验。</li><li><strong>Anthropic</strong> 的调查报告指出，<strong>DeepSeek</strong>、<strong>月之暗面（Moonshot/Kimi）</strong> 和 <strong>MiniMax</strong> 三家中国 AI 实验室涉嫌通过大规模**&quot;蒸馏攻击”**，非法提取 <strong>Claude</strong> 模型能力来训练自家模型，共创建了约 2.4 万个虚假账户，产生了超过 1600 万次对话交互。</li><li><strong>Gemini App</strong> 今日起推出 <strong>Veo 3.1</strong> 的新模板，用户可通过 <strong>gemini.google.com</strong> 或应用内的&quot;创建视频”功能进行体验，并可使用参考照片或描述进行个性化创作。</li><li>用户 <strong>Rory Flynn</strong> 分享了使用 <strong>Kling 3.0</strong> 创作的 <strong>Polaroid F40</strong> 视频，并展示了其在图像、视频和音乐方面的强大工具。</li><li><strong>OpenAI Developers</strong> 鼓励用户分享本周末使用 <strong>Codex</strong> 构建的创新项目，突显 <strong>Codex</strong> 为周末项目带来的乐趣。</li></ol>]]></content:encoded>
           <description><![CDATA[AI洞察日报 2026/2/25 AI 日报 今日AI资讯 OpenAI 宣布迎来新任首席人才官 Arvind KC ，旨在负责任地引领 AI 驱动的工作转型，并促进 AI 赋能工作模式的扩展，提升人类能力。 OpenAI 为 Codex 开发者推出了 WebSockets 功能，可实现代理的 高速部署 ，部署速度提升 30% ，特别适用于需要低延迟和大量工具调用的 长时运行代理 。 用户 Sou]]></description>
-        </item>
-      
-        <item>
-          <title><![CDATA[2026-02-24日刊]]></title>
-          <link>/2026-02/2026-02-24/</link>
-          <guid>/2026-02/2026-02-24/</guid>
-          <pubDate>Tue, 24 Feb 2026 07:32:19 GMT</pubDate>
-          <content:encoded><![CDATA[<h2>AI洞察日报 2026/2/24</h2><blockquote><p><code>AI 日报</code></p></blockquote><h3><strong>今日AI资讯</strong></h3><ol><li><p><strong>Anthropic 揭露中国 AI 实验室&quot;蒸馏攻击”</strong>
-AI 公司 <strong>Anthropic</strong> 发布调查报告，指控 <strong>DeepSeek</strong>、<strong>月之暗面（Moonshot/Kimi）</strong> 和 <strong>MiniMax</strong> 三家中国 AI 实验室，涉嫌通过大规模&quot;<strong>蒸馏攻击</strong>”非法提取 <strong>Claude</strong> 模型的能力来训练自家模型。据称，这三家公司共创建了约 2.4 万个虚假账户，与 Claude 产生了超过 1600 万次对话交互。</p></li><li><p><strong>Gemini App 推送 Veo 3.1 新模板</strong><strong>Gemini</strong> 应用今日起开始推送 <strong>Veo 3.1</strong> 的新模板。用户可通过访问 <code>gemini.google</code> 或直接打开应用，在工具菜单中选择&quot;创建视频”来体验。用户还可以上传参考照片或提供描述来个性化视频创作。</p></li><li><p><strong>Codex 助力周末项目开发</strong>
-OpenAI 开发者社区正在分享使用 <strong>Codex</strong> 进行周末项目开发的乐趣，并鼓励大家分享使用 Codex 构建的作品。</p></li><li><p><strong>AI 模型对话记录管理技巧</strong>
-文章分享了关于管理 AI 模型对话记录的技巧：<strong>Codex</strong> 的历史聊天记录可在 <code>~/.codex/sessions</code> 查找，而 <strong>Claude Code</strong> 的记录则存储在 <code>~/.claude/projects</code>。</p></li><li><p><strong>特德·姜探讨 AI 创作艺术的局限性</strong>
-科幻作家 <strong>Ted Chiang</strong>（特德·姜）在《纽约客》发表文章，探讨 <strong>AI 创作艺术</strong>的局限性。他认为，艺术创作的核心在于艺术家的选择过程，而生成式 AI 受限于提示词，无法产生同等质量的艺术作品。他指出，AI 模仿的是人类&quot;<strong>技能</strong>”（skill），而非真正的&quot;<strong>智能</strong>”（Intelligence），并认为这是 AI 无法成为艺术家有效工具的原因。</p></li></ol>]]></content:encoded>
-          <description><![CDATA[AI洞察日报 2026/2/24 AI 日报 今日AI资讯 Anthropic 揭露中国 AI 实验室&quot;蒸馏攻击” AI 公司 Anthropic 发布调查报告，指控 DeepSeek 、 月之暗面（Moonshot/Kimi） 和 MiniMax 三家中国 AI 实验室，涉嫌通过大规模&quot; 蒸馏攻击 ”非法提取 Claude 模型的能力来训练自家模型。据称，这三家公司共创建了约]]></description>
         </item>
       
   </channel>
