@@ -5,9 +5,18 @@
     <link></link>
     <description> 近 7 天的AI日报</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 02 Mar 2026 23:22:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 23:24:14 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.lazybaby-hk.workers.dev/rss" rel="self" type="application/rss+xml" />
     
+        <item>
+          <title><![CDATA[2026-03-04日刊]]></title>
+          <link>/2026-03/2026-03-04/</link>
+          <guid>/2026-03/2026-03-04/</guid>
+          <pubDate>Wed, 04 Mar 2026 07:24:13 GMT</pubDate>
+          <content:encoded><![CDATA[<h2>AI洞察日报 2026/3/4</h2><blockquote><p><code>AI 日报</code></p></blockquote><h3><strong>今日AI资讯</strong></h3><ol><li>OpenAI Developers 即将推出新内容，敬请期待。</li><li><strong>Anthropic</strong> 服务出现全面中断，影响了其 Vibe Coding 功能。</li><li>用户通过 Telegram 与 <strong>Codepilot</strong> 交流，并使用 <strong>Kimi K2.5</strong> 生成了关于爬山介绍的网页。<strong>Kimi K2.5</strong> 的多模态能力表现出色，仅通过植物图片就能推测出完整的徒步路线并进行介绍。此外，用户成功将 Telegram 连接至 Agent 客户端 <strong>Codepilot</strong>，并认为掌握这套开发体系和 Agent 使用能极大提高工作效率。</li><li>讨论指出，许多人声称在进行 <strong>Agentic Engineering</strong>，但实际上只是在进行 Vibe Coding。有观点建议，在用词上应侧重 Agentic Engineering，而非 Vibe Coding，以提升工程思维的价值。</li></ol>]]></content:encoded>
+          <description><![CDATA[AI洞察日报 2026/3/4 AI 日报 今日AI资讯 OpenAI Developers 即将推出新内容，敬请期待。 Anthropic 服务出现全面中断，影响了其 Vibe Coding 功能。 用户通过 Telegram 与 Codepilot 交流，并使用 Kimi K2.5 生成了关于爬山介绍的网页。 Kimi K2.5 的多模态能力表现出色，仅通过植物图片就能推测出完整的徒步路线并进]]></description>
+        </item>
+      
         <item>
           <title><![CDATA[2026-03-03日刊]]></title>
           <link>/2026-03/2026-03-03/</link>
@@ -60,15 +69,6 @@
           <pubDate>Thu, 26 Feb 2026 07:25:46 GMT</pubDate>
           <content:encoded><![CDATA[<h2>AI洞察日报 2026/2/26</h2><blockquote><p><code>AI 日报</code></p></blockquote><h3><strong>今日AI资讯</strong></h3><ol><li><strong>OpenAI 迎来新任首席人事官，致力于负责任的 AI 转型。</strong> OpenAI 宣布 Arvind KC 正式加入公司担任首席人事官（Chief People Officer），旨在推动 <strong>AI</strong> 驱动的工作方式的演进，并使其成为扩展人类能力的典范。</li><li><strong>OpenAI 引入 WebSockets，显著提升 Agentic 功能的部署速度。</strong> OpenAI 开发者宣布在其 Responses API 中引入 <strong>WebSockets</strong> 功能，能够为需要低延迟和长时间运行的 <strong>Agentic</strong> 应用提供支持，并在 Codex 中实现了 <strong>30%</strong> 的部署速度提升。</li><li><strong>Codex 应用获得高度评价，被赞誉为业界领先。</strong> 用户 Soumitra Shukla 对 OpenAI 的 Codex 应用给予了极高评价，认为其独一无二，远超竞争对手，并称其&quot;不在同一个级别”。</li><li><strong>Antigravity 封禁滥用账号，保障用户体验。</strong> Antigravity 负责人 Varun Mohan 表示，为应对 <strong>恶意滥用</strong> 行为对正常用户体验造成的严重影响，公司已紧急封禁了一批账号。这些滥用行为主要是将 Antigravity 作为代理通道调用其他服务，而非利用其编程功能。公司承认此次处理方式欠妥，并表示将为受影响用户提供恢复途径，同时优先保障正常用户的使用体验。此次封禁仅限于 Antigravity 产品。</li></ol>]]></content:encoded>
           <description><![CDATA[AI洞察日报 2026/2/26 AI 日报 今日AI资讯 OpenAI 迎来新任首席人事官，致力于负责任的 AI 转型。 OpenAI 宣布 Arvind KC 正式加入公司担任首席人事官（Chief People Officer），旨在推动 AI 驱动的工作方式的演进，并使其成为扩展人类能力的典范。 OpenAI 引入 WebSockets，显著提升 Agentic 功能的部署速度。 Open]]></description>
-        </item>
-      
-        <item>
-          <title><![CDATA[2026-02-25日刊]]></title>
-          <link>/2026-02/2026-02-25/</link>
-          <guid>/2026-02/2026-02-25/</guid>
-          <pubDate>Wed, 25 Feb 2026 07:28:43 GMT</pubDate>
-          <content:encoded><![CDATA[<h2>AI洞察日报 2026/2/25</h2><blockquote><p><code>AI 日报</code></p></blockquote><h3><strong>今日AI资讯</strong></h3><ol><li><strong>OpenAI</strong> 宣布迎来新任首席人才官 <strong>Arvind KC</strong>，旨在负责任地引领 <strong>AI</strong> 驱动的工作转型，并促进 <strong>AI</strong> 赋能工作模式的扩展，提升人类能力。</li><li><strong>OpenAI</strong> 为 <strong>Codex</strong> 开发者推出了 <strong>WebSockets</strong> 功能，可实现代理的<strong>高速部署</strong>，部署速度提升 <strong>30%</strong>，特别适用于需要低延迟和大量工具调用的<strong>长时运行代理</strong>。</li><li>用户 <strong>Soumitra Shukla</strong> 对 <strong>OpenAI Codex App</strong> 给予高度评价，认为其表现卓越，远超竞品，是同类应用中的佼佼者。</li><li><strong>Antigravity</strong> 负责人 <strong>Varun Mohan</strong> 披露，公司近期<strong>封禁</strong>了一批恶意滥用后端服务的账号，这些用户将服务用作<strong>代理通道</strong>调用其他产品，而非正常使用 <strong>Antigravity</strong> 的编程功能，占用了大量算力，影响了正常用户体验。</li><li><strong>Anthropic</strong> 的调查报告指出，<strong>DeepSeek</strong>、<strong>月之暗面（Moonshot/Kimi）</strong> 和 <strong>MiniMax</strong> 三家中国 AI 实验室涉嫌通过大规模**&quot;蒸馏攻击”**，非法提取 <strong>Claude</strong> 模型能力来训练自家模型，共创建了约 2.4 万个虚假账户，产生了超过 1600 万次对话交互。</li><li><strong>Gemini App</strong> 今日起推出 <strong>Veo 3.1</strong> 的新模板，用户可通过 <strong>gemini.google.com</strong> 或应用内的&quot;创建视频”功能进行体验，并可使用参考照片或描述进行个性化创作。</li><li>用户 <strong>Rory Flynn</strong> 分享了使用 <strong>Kling 3.0</strong> 创作的 <strong>Polaroid F40</strong> 视频，并展示了其在图像、视频和音乐方面的强大工具。</li><li><strong>OpenAI Developers</strong> 鼓励用户分享本周末使用 <strong>Codex</strong> 构建的创新项目，突显 <strong>Codex</strong> 为周末项目带来的乐趣。</li></ol>]]></content:encoded>
-          <description><![CDATA[AI洞察日报 2026/2/25 AI 日报 今日AI资讯 OpenAI 宣布迎来新任首席人才官 Arvind KC ，旨在负责任地引领 AI 驱动的工作转型，并促进 AI 赋能工作模式的扩展，提升人类能力。 OpenAI 为 Codex 开发者推出了 WebSockets 功能，可实现代理的 高速部署 ，部署速度提升 30% ，特别适用于需要低延迟和大量工具调用的 长时运行代理 。 用户 Sou]]></description>
         </item>
       
   </channel>
