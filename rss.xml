@@ -5,9 +5,18 @@
     <link></link>
     <description> 近 7 天的AI日报</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 06 Mar 2026 23:25:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 23:19:30 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.lazybaby-hk.workers.dev/rss" rel="self" type="application/rss+xml" />
     
+        <item>
+          <title><![CDATA[2026-03-08日刊]]></title>
+          <link>/2026-03/2026-03-08/</link>
+          <guid>/2026-03/2026-03-08/</guid>
+          <pubDate>Sun, 08 Mar 2026 07:19:29 GMT</pubDate>
+          <content:encoded><![CDATA[<h2>AI洞察日报 2026/3/8</h2><blockquote><p><code>AI 日报</code></p></blockquote><h3><strong>今日AI资讯</strong></h3><ol><li><strong>OpenAI 推出 Codex Security</strong>：该 <strong>应用安全代理</strong> 旨在帮助开发者 <strong>保护代码库</strong>，通过 <strong>发现漏洞</strong>、<strong>验证漏洞</strong> 并 <strong>提供修复建议</strong> 来简化安全流程，使团队能专注于关键问题并 <strong>更快地发布代码</strong>。</li><li><strong>OpenAI 启动&quot;Codex for Open Source”计划</strong>：为开源项目核心维护者提供 <strong>六个月的 ChatGPT Pro</strong> 免费使用权，并附带 API 额度和安全工具的使用权。该计划是为支持开源软件贡献者而设，允许维护者使用 <strong>Codex</strong> 来 <strong>审查代码</strong>、<strong>理解大型代码库</strong> 及 <strong>加强安全覆盖</strong>。</li><li><strong>Gemini 的创新应用</strong>：有用户通过 <strong>Gemini</strong> 获取新产品创意，甚至 <strong>麦当劳 CEO</strong> 也利用 Gemini 来 <strong>构思新产品</strong>，例如在 McChicken Big Mac 中加入&quot;牛肉味 notes”和&quot;口感”的描述。</li><li><strong>Nano Banana 2 创作征集</strong>：<strong>GeminiApp</strong> 正在征集用户使用 <strong>Nano Banana 2</strong> 进行的创意作品，鼓励用户在回复中分享他们的创作。</li><li><strong>AI 编程助手集成</strong>：<strong>Claude Code / Codex CLI</strong> 已集成到 <strong>OpenClaw</strong> 中，支持通过 <strong>Telegram</strong> 或 <strong>Discord</strong> 与 AI 编码助手进行交互，提供 <strong>流式响应</strong>、<strong>内联权限按钮</strong>、<strong>持久化会话</strong> 和 <strong>零配置代码</strong>。</li><li><strong>开源社区新项目涌现</strong>：在 <strong>Claude Code</strong> 和 <strong>Codex</strong> 的 Skills 开源后，出现了许多类似的项目，引发了社区的关注和讨论。</li><li><strong>Kimi 和 MiniMax 的海外收入增长</strong>：数据显示，<strong>Kimi</strong> 在 2026 年 1 月和 2 月的 <strong>Stripe 订单数</strong> 呈现 <strong>爆炸式增长</strong>，从月均不足百名飙升至前列。<strong>MiniMax</strong> 也实现了显著增长，其订单量约为 Kimi 的三分之一。</li><li><strong>Grok 和 Manus 的市场表现</strong>：<strong>Grok</strong> 在 2026 年 2 月跃升至 <strong>Stripe 订单排行榜首位</strong>，可能与其在推特的&quot;脱衣”功能带来的流量有关。<strong>Manus</strong> 自 2025 年 3 月上线以来，表现稳步提升，并在 2025 年 11 月后稳定在前五名。</li><li><strong>CodeX App 远程控制更新</strong>：新发布的 Skills 允许用户 <strong>远程控制 CodeX App</strong>，并自动进行配置引导，同时修复了部分已知问题，建议用户卸载并重新安装以获得最佳体验。</li><li><strong>AI 账号注册与数据利用的灰色地带</strong>：有行业人士揭示，部分 AI 账号利用 <strong>盗刷信用卡</strong> 进行批量注册，并可能通过 <strong>&quot;套壳逆向”</strong> 的方式出售破解后的聊天接口。此外，<strong>云厂商的算力抵扣额度</strong> 也存在灰色流转。</li><li><strong>模型蒸馏与数据价值</strong>：文章指出，一些 AI 中转站的真正核心商业模式可能是通过收集用户的 <strong>Prompt 和 Response 数据</strong>，用于 <strong>模型蒸馏</strong>，实现&quot;一鱼两吃”——既收费，又提供训练数据。</li><li><strong>OpenAI GPT-4.5 与 o1 pro 的评价</strong>：除了编程 Agent 领域，<strong>OpenAI 的 GPT-4.5 和 o1 pro</strong> 被认为是行业内的 <strong>巅峰之作</strong>。</li></ol>]]></content:encoded>
+          <description><![CDATA[AI洞察日报 2026/3/8 AI 日报 今日AI资讯 OpenAI 推出 Codex Security ：该 应用安全代理 旨在帮助开发者 保护代码库 ，通过 发现漏洞 、 验证漏洞 并 提供修复建议 来简化安全流程，使团队能专注于关键问题并 更快地发布代码 。 OpenAI 启动&quot;Codex for Open Source”计划 ：为开源项目核心维护者提供 六个月的 ChatGPT]]></description>
+        </item>
+      
         <item>
           <title><![CDATA[2026-03-07日刊]]></title>
           <link>/2026-03/2026-03-07/</link>
@@ -60,15 +69,6 @@
           <pubDate>Mon, 02 Mar 2026 07:20:24 GMT</pubDate>
           <content:encoded><![CDATA[<h2>AI洞察日报 2026/3/2</h2><blockquote><p><code>AI 日报</code></p></blockquote><h3><strong>今日AI资讯</strong></h3><ol><li><p><strong>Codex</strong> 的周活跃用户数量自年初以来增长了 <strong>两倍多</strong>，已达到 <strong>160 万</strong>。尽管有人表示更偏好使用 Claude Code，但 Codex 的快速追赶势头强劲。</p></li><li><p><strong>Anthropic</strong> 推出了 <strong>Memory Import</strong> 工具，允许用户将 <strong>ChatGPT</strong>、<strong>Gemini</strong> 等 AI 助手中的记忆和上下文一键迁移至 Claude。该工具直接写入 Claude 的记忆系统，操作简便，旨在利用 ChatGPT 完善的记忆系统来增强用户粘性。</p></li><li><p>一张图片展示了&quot;vibe coding”的场景，暗示了通过某种方式进行编码。</p></li><li><p><strong>OpenAI</strong> 已与 <strong>美国国防部</strong> 达成协议，将在其机密环境中部署先进的 AI 系统。OpenAI 表示，此次部署比以往的机密 AI 部署（包括 Anthropic 的）拥有更多安全保障措施。</p></li><li><p><strong>OpenAI</strong> 宣布与 <strong>美国国防部</strong> 达成协议，将在其机密网络中部署 AI 模型。国防部对安全表现出高度尊重，并同意了 OpenAI 的两条核心安全原则：禁止国内大规模监控，以及武力使用（包括自主武器系统）必须由人类负责。</p></li><li><p><strong>OpenAI</strong> 正在与 <strong>美国国防部</strong> 洽谈一份 AI 部署合同。在同一天，<strong>特朗普</strong> 命令联邦政府全面停止与 <strong>Anthropic</strong> 的合作。五角大楼接受了 OpenAI 提出的安全限制条件，包括不用于自主武器、不进行国内大规模监控、以及不用于关键决策，这些条件与 Anthropic 此前坚持的几乎一致。</p></li><li><p>游戏主播 <strong>PewDiePie</strong> 利用 <strong>Qwen2.5</strong> 模型，并参考 <strong>Deepseek</strong> 和清华大学的论文，成功训练了自己的本地大模型。该模型在基准测试中 <strong>超越了 ChatGPT</strong>，其训练使用了在中国购买的 <strong>魔改 4090 显卡</strong>。</p></li></ol>]]></content:encoded>
           <description><![CDATA[AI洞察日报 2026/3/2 AI 日报 今日AI资讯 Codex 的周活跃用户数量自年初以来增长了 两倍多 ，已达到 160 万 。尽管有人表示更偏好使用 Claude Code，但 Codex 的快速追赶势头强劲。 Anthropic 推出了 Memory Import 工具，允许用户将 ChatGPT 、 Gemini 等 AI 助手中的记忆和上下文一键迁移至 Claude。该工具直接写入]]></description>
-        </item>
-      
-        <item>
-          <title><![CDATA[2026-03-01日刊]]></title>
-          <link>/2026-03/2026-03-01/</link>
-          <guid>/2026-03/2026-03-01/</guid>
-          <pubDate>Sun, 01 Mar 2026 07:19:12 GMT</pubDate>
-          <content:encoded><![CDATA[<h2>AI洞察日报 2026/3/1</h2><blockquote><p><code>AI 日报</code></p></blockquote><h3><strong>今日AI资讯</strong></h3><ol><li><strong>OpenAI</strong> 与 <strong>美国国防部</strong> 达成协议，将在其<strong>机密网络</strong>中部署 <strong>AI模型</strong>。OpenAI 强调国防部对<strong>安全</strong>表现出深切尊重。协议签署的同一天，<strong>特朗普</strong>下令联邦政府全面停止与 <strong>Anthropic</strong> 的合作。协议内容包含 OpenAI 的两条核心安全原则：禁止国内大规模监控，以及武力使用必须由人类负责。OpenAI 模型将仅在云端部署，不进入边缘设备，并派驻持有安全许可的工程师监控。</li><li>OpenAI 正在与美国国防部谈判一份 AI 部署合同。据报道，Sam Altman 在周五的全员会上向员工通报了谈判进展，合同尚未签署。五角大楼接受了 OpenAI 提出的安全红线：不用于自主武器、不搞国内大规模监控、不做关键决策，而这些条件与 Anthropic 坚持的几乎一致。</li><li>著名游戏主播 <strong>PewDiePie</strong> 利用 <strong>Qwen2.5</strong> 模型，结合 Deepseek 和清华大学的论文，成功训练出自己的<strong>本地大模型</strong>，并在基准测试中超过 ChatGPT。他使用的硬件是中国购买的魔改 4090 显卡，这为各国建立自有模型提供了示范。</li><li><strong>codex 5.3</strong> 版本在处理<strong>复杂的软件工程</strong>任务时表现出色，能够绕过 HuggingFace 的 KV 缓存抽象，并处理 M-RoPE 等高级技术。</li><li><strong>Kling 3.0</strong> 在 <strong>Artificial Analysis Video Arena</strong> 的文本生成视频评测中，再次获得<strong>第一名</strong>，在&quot;有音频”和&quot;无音频”类别中均超越了 Grok Imagine、Runway Gen-4.5 和 Veo 3.1。</li><li><strong>LiteLLM</strong> 项目被推荐用于管理 <strong>API key</strong>，相当于在本地搭建了一个 OpenRouter，方便管理和使用各种模型的 API。它还提供可视化 Web 界面来管理模型配置。</li><li>作者使用大疆 mic3 和 <strong>Claude</strong> (CC) 实现了智能音频处理。通过将外接磁盘命名为 DJI，Claude 能够自动识别并读取磁盘内容，调用 Whisper3 Large 进行<strong>语音转录</strong>，并将结果存入 Obsidian 的指定文件夹，效率极高。</li></ol>]]></content:encoded>
-          <description><![CDATA[AI洞察日报 2026/3/1 AI 日报 今日AI资讯 OpenAI 与 美国国防部 达成协议，将在其 机密网络 中部署 AI模型 。OpenAI 强调国防部对 安全 表现出深切尊重。协议签署的同一天， 特朗普 下令联邦政府全面停止与 Anthropic 的合作。协议内容包含 OpenAI 的两条核心安全原则：禁止国内大规模监控，以及武力使用必须由人类负责。OpenAI 模型将仅在云端部署，不进]]></description>
         </item>
       
   </channel>
