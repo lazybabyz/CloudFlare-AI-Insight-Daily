@@ -5,9 +5,18 @@
     <link></link>
     <description> 近 7 天的AI日报</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 07 Mar 2026 23:19:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 23:20:40 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.lazybaby-hk.workers.dev/rss" rel="self" type="application/rss+xml" />
     
+        <item>
+          <title><![CDATA[2026-03-09日刊]]></title>
+          <link>/2026-03/2026-03-09/</link>
+          <guid>/2026-03/2026-03-09/</guid>
+          <pubDate>Mon, 09 Mar 2026 07:20:39 GMT</pubDate>
+          <content:encoded><![CDATA[<h2>AI洞察日报 2026/3/9</h2><blockquote><p><code>AI 日报</code></p></blockquote><h3><strong>今日AI资讯</strong></h3><ol><li><strong>Get 笔记</strong>近期推出的新功能获得好评，该</li></ol>]]></content:encoded>
+          <description><![CDATA[AI洞察日报 2026/3/9 AI 日报 今日AI资讯 Get 笔记 近期推出的新功能获得好评，该]]></description>
+        </item>
+      
         <item>
           <title><![CDATA[2026-03-08日刊]]></title>
           <link>/2026-03/2026-03-08/</link>
@@ -60,15 +69,6 @@
           <pubDate>Tue, 03 Mar 2026 07:22:35 GMT</pubDate>
           <content:encoded><![CDATA[<h2>AI洞察日报 2026/3/3</h2><blockquote><p><code>AI 日报</code></p></blockquote><h3><strong>今日AI资讯</strong></h3><ol><li><strong>Anthropic服务全线故障</strong>，用户被迫停止&quot;Vibe Coding”。</li><li>部分用户将&quot;Vibe Coding”误认为&quot;Agentic Engineering”，有观点认为应使用后者以提升工程思维价值。</li><li><strong>MiroMiro Chrome插件</strong>被推荐为前端开发必备工具，可查看配色、字体，支持&quot;Vibe Coding”，并能下载网页中的视频和图片。</li><li><strong>Codex</strong>的用户周活跃度自年初以来增长超过两倍，达到160万，显示出强劲的增长势头，虽然部分用户仍偏好Claude Code。</li><li><strong>Anthropic推出记忆迁移工具</strong>，允许用户将ChatGPT、Gemini等AI助手中的记忆导入Claude，此举被视为对OpenAI的重要竞争策略。</li><li>有用户发布了与&quot;Vibe Coding”相关的图片，并表示需要&quot;戒掉”这种工作方式。</li></ol>]]></content:encoded>
           <description><![CDATA[AI洞察日报 2026/3/3 AI 日报 今日AI资讯 Anthropic服务全线故障 ，用户被迫停止&quot;Vibe Coding”。 部分用户将&quot;Vibe Coding”误认为&quot;Agentic Engineering”，有观点认为应使用后者以提升工程思维价值。 MiroMiro Chrome插件 被推荐为前端开发必备工具，可查看配色、字体，支持&quot;Vibe C]]></description>
-        </item>
-      
-        <item>
-          <title><![CDATA[2026-03-02日刊]]></title>
-          <link>/2026-03/2026-03-02/</link>
-          <guid>/2026-03/2026-03-02/</guid>
-          <pubDate>Mon, 02 Mar 2026 07:20:24 GMT</pubDate>
-          <content:encoded><![CDATA[<h2>AI洞察日报 2026/3/2</h2><blockquote><p><code>AI 日报</code></p></blockquote><h3><strong>今日AI资讯</strong></h3><ol><li><p><strong>Codex</strong> 的周活跃用户数量自年初以来增长了 <strong>两倍多</strong>，已达到 <strong>160 万</strong>。尽管有人表示更偏好使用 Claude Code，但 Codex 的快速追赶势头强劲。</p></li><li><p><strong>Anthropic</strong> 推出了 <strong>Memory Import</strong> 工具，允许用户将 <strong>ChatGPT</strong>、<strong>Gemini</strong> 等 AI 助手中的记忆和上下文一键迁移至 Claude。该工具直接写入 Claude 的记忆系统，操作简便，旨在利用 ChatGPT 完善的记忆系统来增强用户粘性。</p></li><li><p>一张图片展示了&quot;vibe coding”的场景，暗示了通过某种方式进行编码。</p></li><li><p><strong>OpenAI</strong> 已与 <strong>美国国防部</strong> 达成协议，将在其机密环境中部署先进的 AI 系统。OpenAI 表示，此次部署比以往的机密 AI 部署（包括 Anthropic 的）拥有更多安全保障措施。</p></li><li><p><strong>OpenAI</strong> 宣布与 <strong>美国国防部</strong> 达成协议，将在其机密网络中部署 AI 模型。国防部对安全表现出高度尊重，并同意了 OpenAI 的两条核心安全原则：禁止国内大规模监控，以及武力使用（包括自主武器系统）必须由人类负责。</p></li><li><p><strong>OpenAI</strong> 正在与 <strong>美国国防部</strong> 洽谈一份 AI 部署合同。在同一天，<strong>特朗普</strong> 命令联邦政府全面停止与 <strong>Anthropic</strong> 的合作。五角大楼接受了 OpenAI 提出的安全限制条件，包括不用于自主武器、不进行国内大规模监控、以及不用于关键决策，这些条件与 Anthropic 此前坚持的几乎一致。</p></li><li><p>游戏主播 <strong>PewDiePie</strong> 利用 <strong>Qwen2.5</strong> 模型，并参考 <strong>Deepseek</strong> 和清华大学的论文，成功训练了自己的本地大模型。该模型在基准测试中 <strong>超越了 ChatGPT</strong>，其训练使用了在中国购买的 <strong>魔改 4090 显卡</strong>。</p></li></ol>]]></content:encoded>
-          <description><![CDATA[AI洞察日报 2026/3/2 AI 日报 今日AI资讯 Codex 的周活跃用户数量自年初以来增长了 两倍多 ，已达到 160 万 。尽管有人表示更偏好使用 Claude Code，但 Codex 的快速追赶势头强劲。 Anthropic 推出了 Memory Import 工具，允许用户将 ChatGPT 、 Gemini 等 AI 助手中的记忆和上下文一键迁移至 Claude。该工具直接写入]]></description>
         </item>
       
   </channel>
