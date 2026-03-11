@@ -5,9 +5,18 @@
     <link></link>
     <description> 近 7 天的AI日报</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 09 Mar 2026 23:25:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 23:22:24 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.lazybaby-hk.workers.dev/rss" rel="self" type="application/rss+xml" />
     
+        <item>
+          <title><![CDATA[2026-03-12日刊]]></title>
+          <link>/2026-03/2026-03-12/</link>
+          <guid>/2026-03/2026-03-12/</guid>
+          <pubDate>Thu, 12 Mar 2026 07:22:23 GMT</pubDate>
+          <content:encoded><![CDATA[<h2>AI洞察日报 2026/3/12</h2><blockquote><p><code>AI 日报</code></p></blockquote><h3><strong>今日AI资讯</strong></h3><ol><li><p>有人需要 <strong>CodePilot</strong> 移动端 App 吗？该 App 能控制多个桌面端设备的 Code Pilot、Claude Code 和 Codex，并支持在多个桌面端进行多聊天窗口并发。虽然 App 功能有限，主要将主机作为网盘和服务器使用，但支持切换模型、切换工作目录以及远程查看进度。</p></li><li><p><strong>Gemini in Chrome</strong> 即将支持更多语言，并开始在印度、加拿大和新西兰推出，覆盖 50 种额外语言。</p></li><li><p>Thomas Ricouard，知名 SwiftUI 开源项目 ice cube 的作者，已加入 <strong>OpenAI</strong>，将致力于 <strong>Codex</strong> 相关工作，并与开发者体验团队合作。</p></li><li><p><strong>ChatGPT</strong> 每周帮助 1.4 亿用户理解数学和科学概念。</p></li><li><p><strong>Amazon</strong> 紧急讨论 AI 破坏系统问题，因其 AWS 使用的 AI 编码工具箱导致系统中断，修复耗时 13 小时。未来初、中级工程师直接编译的 AI 代码需高级工程师审批。</p></li><li><p>文章将 <strong>OpenAI 的 Harness 工程</strong> 类比为控制论，指出其模式与瓦特的离心式调速器和 Kubernetes 类似，核心在于通过 AI 智能体编写代码，人类则负责设计环境、构建反馈回路和编写约束规则。这种模式通过 <strong>AI 智能体</strong> 在高级层面闭合了反馈回路，改变了软件工程的模式，其本质在于让人类在评判能力上超越机器，定义&quot;正确”的标准。</p></li><li><p><strong>Claude-to-im Skills</strong> 增强了 <strong>ClaudeCode</strong> 和 <strong>Codex</strong> 与飞书、QQ 的集成易用性，用户在需要授权时只需回复数字 1、2、3 即可，无需输入长命令。</p></li></ol>]]></content:encoded>
+          <description><![CDATA[AI洞察日报 2026/3/12 AI 日报 今日AI资讯 有人需要 CodePilot 移动端 App 吗？该 App 能控制多个桌面端设备的 Code Pilot、Claude Code 和 Codex，并支持在多个桌面端进行多聊天窗口并发。虽然 App 功能有限，主要将主机作为网盘和服务器使用，但支持切换模型、切换工作目录以及远程查看进度。 Gemini in Chrome 即将支持更多语言]]></description>
+        </item>
+      
         <item>
           <title><![CDATA[2026-03-10日刊]]></title>
           <link>/2026-03/2026-03-10/</link>
@@ -51,24 +60,6 @@
           <pubDate>Fri, 06 Mar 2026 07:49:01 GMT</pubDate>
           <content:encoded><![CDATA[<h2>AI洞察日报 2026/3/6</h2><blockquote><p><code>AI 日报</code></p></blockquote><h3><strong>今日AI资讯</strong></h3><ol><li><strong>Gemini</strong> 宣布与 <strong>Veo</strong> 和 <strong>Nano Banana</strong> 达成最新合作，旨在帮助用户更轻松地激发创意。该公司将举办一场 <strong>Discord 社群活动</strong>，深入探讨 Gemini 新的视频和图像生成功能，并提供实时创作指导。</li><li><strong>Kling Motion Control 3.0 挑战赛</strong> 正式启动，参赛者需遵守 <strong>KlingAI watermark</strong>、使用 <strong>#KlingMotionControl3</strong> 标签、提及&quot;Created by KlingAI”并 <strong>@Kling_ai</strong>。此外，还需将 Kling UID <strong>私信</strong> 至官方账号。</li><li><strong>阿里巴巴</strong> 股票近期下跌，与 <strong>Qwen</strong>（千问）团队核心成员的离职有关。市场似乎对 Qwen 4 在关键人才缺席下能否维持其 <strong>开源前沿模型</strong> 的地位表示担忧。</li><li><strong>Kling Motion Control 3.0</strong> 正式发布，该版本在 <strong>面部 ID 一致性</strong> 方面有所提升，旨在提供更专业的 <strong>动作捕捉</strong> 体验。</li><li><strong>Codex Windows APP</strong> 已发布，并引入了 <strong>AI 原生 Agent 沙盒</strong>，用于处理敏感权限操作。该沙盒部分代码已 <strong>开源</strong>，可供开发者参考。</li><li><strong>Kling 3.0、Kling 3.0 Omni 和 3.0 Motion Control</strong> 已全面上线。创意合作伙伴 <strong>@visualsk2</strong> 利用新版本创作了 <strong>动作场景短片</strong>，展示了其强大的功能。</li><li>创意合作伙伴 <strong>László Gaál</strong> 使用 <strong>Kling 3.0</strong> 成功呈现了 <strong>人物互动</strong> 场景，即使是复杂的 <strong>室内剧</strong> 创作也因 Kling 3.0 的引入而变得更加容易。</li><li><strong>Anthropic CEO 达里奥·阿莫迪</strong> 表示，公司与特朗普政府关系紧张源于其拒绝&quot;政治站队”。他批评 <strong>OpenAI</strong> 向特朗普政治行动委员会捐款，并称其与五角大楼的合同是&quot;<strong>安全剧场</strong>”。</li><li><strong>Codex App</strong> 现已支持 <strong>Windows</strong> 操作系统，提供原生运行和 <strong>WSL</strong> 支持。其创新的 <strong>Agent 沙盒机制</strong> 通过操作系统层面限制 AI 的文件写入和网络访问，平衡了功能可用性与安全性。</li><li><strong>Prism</strong> 已集成 <strong>Codex</strong>，成为一个集写作、计算、分析和迭代于一体的 <strong>科学写作</strong> 平台。</li><li><strong>Codex App</strong> 在 <strong>Windows</strong> 上线，提供原生 Agent 沙盒和对 <strong>PowerShell</strong> 等开发者环境的支持。</li><li><strong>Kling Motion Control 3.0</strong> 升级，支持 <strong>Mocap 级动作控制</strong>，提供 1080p 分辨率和 30 秒的输出。</li><li><strong>Kling 3.0</strong> 及其 <strong>Omni</strong> 和 <strong>motion control</strong> 模型已更新，新版 motion control 提供精细的 <strong>动作捕捉</strong>，可将人类表演细节转移至 AI 角色，并可与 AI 生成环境互动。</li><li><strong>阿里巴巴</strong> 的开源经历被描述为&quot;幸福又折腾”。早期项目如 Sea.js 自由度高，但后期项目如 Ant Design 需与业务关联，面临组织阻力。<strong>DeepSeek</strong> 被认为是国内真正具备 <strong>开源基因</strong> 的公司。</li><li>在 <strong>通义大会</strong> 上，<strong>阿里巴巴</strong> 方面表示 <strong>Qwen</strong> 是集团层面的重要项目，需要扩充人才和资源以实现快速发展。尽管面临资源挑战和组织调整，但仍强调 Qwen 的 <strong>第一优先级</strong>。</li><li><strong>OpenAI CEO Sam Altman</strong> 在全员大会上承认，<strong>五角大楼</strong> 如何使用 OpenAI 的 AI <strong>公司说了不算</strong>。他承认与五角大楼的合同交易&quot;看起来既投机又草率”，并表示 OpenAI 正在修订合同，禁止将 AI 用于 <strong>美国公民的国内监控</strong>。</li><li>有消息称，<strong>X 平台上大部分伪造的战争视频</strong> 是由 <strong>Sora</strong> 生成的，OpenAI 被指责在该领域&quot;<strong>垄断了错误信息市场</strong>”。</li><li><strong>OpenAI</strong> 正在开发一个 <strong>代码托管平台</strong>，旨在替代 <strong>GitHub</strong>。此举部分原因是工程师近期频繁遭遇 <strong>GitHub 服务中断</strong>，影响了工作流程。该平台尚处于早期阶段，未来可能对外销售。</li></ol>]]></content:encoded>
           <description><![CDATA[AI洞察日报 2026/3/6 AI 日报 今日AI资讯 Gemini 宣布与 Veo 和 Nano Banana 达成最新合作，旨在帮助用户更轻松地激发创意。该公司将举办一场 Discord 社群活动 ，深入探讨 Gemini 新的视频和图像生成功能，并提供实时创作指导。 Kling Motion Control 3.0 挑战赛 正式启动，参赛者需遵守 KlingAI watermark 、使用]]></description>
-        </item>
-      
-        <item>
-          <title><![CDATA[2026-03-05日刊]]></title>
-          <link>/2026-03/2026-03-05/</link>
-          <guid>/2026-03/2026-03-05/</guid>
-          <pubDate>Thu, 05 Mar 2026 07:26:56 GMT</pubDate>
-          <content:encoded><![CDATA[<h2>AI洞察日报 2026/3/5</h2><blockquote><p><code>AI 日报</code></p></blockquote><h3><strong>今日AI资讯</strong></h3><ol><li><p>RT Xinyu Yang 报道称，在通义大会上，首席HR表示此次调整旨在扩充人才并提供更多资源，而阿里巴巴作为模型公司，将由集团层面推动 <strong>Qwen</strong> 的快速发展，这涉及到组织架构的调整和人才的重新配置，并强调&quot;<strong>任何事情的发生都不是没有代价的</strong>”。集团层面将 <strong>Qwen</strong> 列为最重要的事务，期望通过人才扩张实现目标。</p></li><li><p><strong>OpenAI CEO Sam Altman</strong> 在内部全员大会上向员工明确，五角大楼如何使用 OpenAI 的 AI <strong>公司说了不算</strong>，OpenAI <strong>不参与作战决策</strong>。此番言论背景是 OpenAI 火速与五角大楼达成协议，接替 Anthropic 的国防部合作。Altman 承认此交易时机&quot;看起来既投机又草率”，并表示 OpenAI 正在修订合同，禁止 AI 用于美国公民的国内监控。</p></li><li><p>X（原Twitter）平台上，<strong>Sora 2</strong> 被指是当前制造伪造战争视频的主要工具。据称，过去 48 小时内发布在 X 上的几乎所有此类视频都带有 <strong>Sora</strong> 的元数据，这使得 <strong>OpenAI</strong> 在信息误传领域占据了主导地位。</p></li><li><p>据《The Information》报道，<strong>OpenAI</strong> 正在自行开发一个代码托管平台，意图作为 <strong>GitHub</strong> 的替代品。此举的直接原因是 OpenAI 工程师近期频繁遭遇 <strong>GitHub</strong> 服务中断，严重影响了开发工作流。该项目尚处于早期阶段，未来可能对外销售。</p></li><li><p>RT Panda 评论称，<strong>Qwen</strong> 在过去两年中的贡献将被低估，其开源模型极大地推动了国内新能源电动车、机器人公司搭载大模型的能力，以及 VLA 模型的发展，而这一切很多受益者选择沉默。</p></li><li><p><strong>OpenAI</strong> 发布了 <strong>GPT-5.3 Instant</strong>，旨在替换 ChatGPT 中广泛使用的日常对话模型 GPT-5.2 Instant。新版本主要改进包括减少&quot;说教感”，提升联网搜索质量，并通过内部测试显示在事实准确性方面有显著提升，尤其是在医学、法律和金融等高风险领域。</p></li></ol>]]></content:encoded>
-          <description><![CDATA[AI洞察日报 2026/3/5 AI 日报 今日AI资讯 RT Xinyu Yang 报道称，在通义大会上，首席HR表示此次调整旨在扩充人才并提供更多资源，而阿里巴巴作为模型公司，将由集团层面推动 Qwen 的快速发展，这涉及到组织架构的调整和人才的重新配置，并强调&quot; 任何事情的发生都不是没有代价的 ”。集团层面将 Qwen 列为最重要的事务，期望通过人才扩张实现目标。 OpenAI C]]></description>
-        </item>
-      
-        <item>
-          <title><![CDATA[2026-03-04日刊]]></title>
-          <link>/2026-03/2026-03-04/</link>
-          <guid>/2026-03/2026-03-04/</guid>
-          <pubDate>Wed, 04 Mar 2026 07:24:13 GMT</pubDate>
-          <content:encoded><![CDATA[<h2>AI洞察日报 2026/3/4</h2><blockquote><p><code>AI 日报</code></p></blockquote><h3><strong>今日AI资讯</strong></h3><ol><li>OpenAI Developers 即将推出新内容，敬请期待。</li><li><strong>Anthropic</strong> 服务出现全面中断，影响了其 Vibe Coding 功能。</li><li>用户通过 Telegram 与 <strong>Codepilot</strong> 交流，并使用 <strong>Kimi K2.5</strong> 生成了关于爬山介绍的网页。<strong>Kimi K2.5</strong> 的多模态能力表现出色，仅通过植物图片就能推测出完整的徒步路线并进行介绍。此外，用户成功将 Telegram 连接至 Agent 客户端 <strong>Codepilot</strong>，并认为掌握这套开发体系和 Agent 使用能极大提高工作效率。</li><li>讨论指出，许多人声称在进行 <strong>Agentic Engineering</strong>，但实际上只是在进行 Vibe Coding。有观点建议，在用词上应侧重 Agentic Engineering，而非 Vibe Coding，以提升工程思维的价值。</li></ol>]]></content:encoded>
-          <description><![CDATA[AI洞察日报 2026/3/4 AI 日报 今日AI资讯 OpenAI Developers 即将推出新内容，敬请期待。 Anthropic 服务出现全面中断，影响了其 Vibe Coding 功能。 用户通过 Telegram 与 Codepilot 交流，并使用 Kimi K2.5 生成了关于爬山介绍的网页。 Kimi K2.5 的多模态能力表现出色，仅通过植物图片就能推测出完整的徒步路线并进]]></description>
         </item>
       
   </channel>
