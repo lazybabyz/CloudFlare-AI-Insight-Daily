@@ -5,9 +5,26 @@
     <link></link>
     <description> 近 7 天的AI日报</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 29 Apr 2026 23:52:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 23:51:01 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.lazybaby-hk.workers.dev/rss" rel="self" type="application/rss+xml" />
     
+        <item>
+          <title><![CDATA[2026-05-01日刊]]></title>
+          <link>/2026-05/2026-05-01/</link>
+          <guid>/2026-05/2026-05-01/</guid>
+          <pubDate>Fri, 01 May 2026 07:51:00 GMT</pubDate>
+          <content:encoded><![CDATA[<h2>AI洞察日报 2026/5/1</h2><blockquote><p><code>AI 日报</code></p></blockquote><h3><strong>今日AI资讯</strong></h3><ol><li><p><strong>Codex 重大升级，支持非编程计算机工作</strong>
+OpenAI 的 <strong>Codex</strong> 今日迎来重大升级，现已支持处理各种计算机上的日常工作，包括研究、规划、文档、幻灯片、电子表格等。用户可选择角色，连接常用应用，并尝试建议的提示词。此次更新使 <strong>Codex</strong> 在执行某些任务时速度提升了 42%。有用户表示，<strong>Codex</strong> 首次实现了 LLM 以与人类相当的速度操作 GUI，效果&quot;超现实”。</p></li><li><p><strong>ChatGPT 推出高级账户安全功能</strong>
+OpenAI 推出了 <strong>ChatGPT</strong> 的<strong>高级账户安全</strong>功能，这是一项新的可选设置，专为面临更高数字攻击风险的用户设计。该功能提供更强的保护，包括防钓鱼登录和更安全的账户恢复机制。</p></li><li><p><strong>Gemini App Notebooks 现已支持移动端</strong><strong>Gemini App</strong> 中的 Notebooks 功能现已对免费和付费用户在移动端正式开放，并将很快扩展到欧洲更多国家。用户可以直接在 <strong>Gemini App</strong> 内访问个人笔记本，并利用其功能。</p></li><li><p><strong>CodexPotter 优化 CLI 体验，但不适合交互式开发</strong><strong>CodexPotter</strong> 被推荐为一个不错的 <strong>CLI</strong> 工具，它通过后台启动 <strong>Codex CLI</strong> 并同步显示结果来工作。该工具将预期结果写入 <code>MAIN.md</code> 文件，然后不断启动新的 <strong>Codex</strong> 会话进行代码检查和修正，直到结果一致为止。默认最多进行 6 轮，但可配置。<strong>CodexPotter</strong> 适用于目标明确的任务，不适合需要反复讨论的交互式开发。</p></li><li><p><strong>Agent 产品交互设计探索</strong>
+Agent 产品目前存在两类主流交互模式：一是以对话列表和代码/文档并列的 <strong>Codex</strong>、Cursor Agent 模式为代表，强调 Agent 中心化；二是以 GitHub Copilot 为代表，将 Agent 对话置于右侧边栏，人机操作为主，Agent 为辅。设计 Agent 交互仍有很大探索空间，关键在于明确 Agent 是中心还是辅助。</p></li><li><p><strong>Chronicle 为 Codex 提供被动记忆功能</strong><strong>Chronicle</strong> 为 <strong>Codex</strong> 提供了被动记忆功能，能够记录用户计算机使用情况，从而解锁新的应用场景。例如，用户可以询问 <strong>Codex</strong> 关于低效计算机使用行为的建议。</p></li><li><p><strong>Codex 游戏开发演示惊艳业界</strong><strong>Codex</strong> 在游戏开发领域展现了惊人的能力，成功制作了一个类似《杀戮尖塔》的完整游戏关卡演示，包括场景和角色素材（部分由 GPT-Image 生成）。该演示细节丰富，除缺少声音外几乎完美，且完全由 AI 自主完成，令人惊叹。</p></li><li><p><strong>OpenAI 调查模型&quot;哥布林”言论泛滥问题</strong>
+OpenAI 发布技术博客，调查了其模型（特别是 <strong>GPT-5.5</strong>）频繁使用&quot;哥布林”（goblin）和&quot;小精灵”（gremlin）等词语的原因。调查发现，这与 <strong>ChatGPT</strong> 的&quot;Nerdy”（极客风）性格定制功能有关，该功能无意中鼓励了奇幻生物比喻，并形成了反馈循环。为解决此问题，OpenAI 下架了 Nerdy 性格，并采取了过滤训练数据等措施。<strong>Codex</strong> 也被用于压制这种&quot;tic 词”（语言习惯性抽搐）。</p></li><li><p><strong>GPT-5.5 提示词指南强调简短指令</strong>
+OpenAI 发布了 <strong>GPT-5.5</strong> 提示词指南，核心信息是&quot;别再写长提示词了”。指南建议用户描述清楚目标、成功标准和限制条件，让模型自行规划路径，并强调设定&quot;性格”和&quot;刹车”（停止规则）的重要性。短提示词和结果导向的描述能更有效地利用 <strong>GPT-5.5</strong> 的能力。</p></li><li><p><strong>Codex App-Server 支持构建自定义 Agent</strong><strong>Codex App Server</strong> 被认为被低估，允许用户将 <strong>Codex</strong> 的智能集成到任何平台。通过 <strong>ChatGPT</strong> 账户，用户可以使用此开源工具嵌入 <strong>Codex</strong> 功能，例如将其集成到 Chrome 浏览器中。</p></li><li><p><strong>Codex 辅助数据分析和报告撰写</strong><strong>Codex</strong> 被演示用于分析数据导出，标记变化内容，并协助起草报告，展示了其在数据处理和内容生成方面的实用性。</p></li><li><p><strong>Gemini App 实现文件直接生成与导出</strong><strong>Gemini App</strong> 新增了文件生成和导出功能，用户可以直接要求 Gemini 创建 Docs、Sheets、Slides、PDFs、Markdown 等格式的文件，并直接在聊天中下载，无需复制粘贴或重新格式化。</p></li><li><p><strong>Hermes Agent 深度解析其多层记忆系统</strong>
+Hermes Agent 被深度解析，其记忆系统包含四层：高度浓缩的提示词记忆（MEMORY.md 和 USER.md）、SQLite 历史会话存档、程序化记忆（技能管理）以及可选的 Honcho 用户建模层。其核心逻辑在于保持提示词稳定以利用缓存，其他信息则通过工具按需检索。</p></li><li><p><strong>Gemini 创意工作流展示</strong>
+Google Gemini 将举办 Discord 活动，展示 Gemini Creative Technologist 的 Canvas 和 Nano Banana 工作流，帮助用户提升创意提示词技巧。</p></li><li><p><strong>Greg Brockman 认为 Codex App 是其主要计算机接口</strong>
+Greg Brockman 表示，终端机近二十年来一直是他的主要计算机接口，而现在 <strong>Codex App</strong> 已取而代之。有用户认为 <strong>Codex App</strong> 比使用终端机更优越。</p></li></ol>]]></content:encoded>
+          <description><![CDATA[AI洞察日报 2026/5/1 AI 日报 今日AI资讯 Codex 重大升级，支持非编程计算机工作 OpenAI 的 Codex 今日迎来重大升级，现已支持处理各种计算机上的日常工作，包括研究、规划、文档、幻灯片、电子表格等。用户可选择角色，连接常用应用，并尝试建议的提示词。此次更新使 Codex 在执行某些任务时速度提升了 42%。有用户表示， Codex 首次实现了 LLM 以与人类相当的速]]></description>
+        </item>
+      
         <item>
           <title><![CDATA[2026-04-30日刊]]></title>
           <link>/2026-04/2026-04-30/</link>
